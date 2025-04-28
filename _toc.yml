@@ -13,6 +13,7 @@ parts:
   - file: general-information/whyjb
   - file: content/4_additional/quick_tutorial_ws
 - caption: Step-by-Step Tutorial 
+  chapters:
   - file: content/1_github/intro
     sections:
     - file: content/1_github/account
