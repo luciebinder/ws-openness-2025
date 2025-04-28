@@ -1,6 +1,6 @@
 # Setting Up a GitHub Account
 
-First things first, let us set up a GitHub account. 
+We ask you to set up a GitHub account in preparation for the workshop. So let's get started:
 
 **1. Go to the GitHub website**: Open a web browser and navigate to [github.com](https://github.com/).
 
@@ -16,10 +16,7 @@ First things first, let us set up a GitHub account.
 <br>
 
 **And that's it!**
-You can now use your new GitHub account to store your code online or collaborate and share your projects with the world!
+Perfect, that's all you need to do in advance! However, feel free to take a look into the other chapters, which we will discuss in our small group during the workshop.
 <br>
 
-## Next Section: 
-
-In the next section you will learn how to create your own project on GitHub.
 
