@@ -7,9 +7,12 @@ parts:
 - caption: Getting Started
   chapters:
   - file: general-information/overview
+  - file: content/1_github/account_ws
 - caption: Creating Interactive Content With Jupyter Books
   chapters:
   - file: general-information/whyjb
+  - file: content/4_additional/quick_tutorial_ws
+- caption: Step-by-Step Tutorial 
   - file: content/1_github/intro
     sections:
     - file: content/1_github/account
