@@ -16,7 +16,7 @@ We ask you to set up a GitHub account in preparation for the workshop. So let's 
 <br>
 
 **And that's it!**
-Perfect, that's all you need to do in advance! However, feel free to take a look into the other chapters, which we will discuss in our small group during the workshop.
+Perfect, that's all you need to do in advance. However, feel free to explore the other chapters, which we will discuss in our small group during the workshop.
 <br>
 
 
