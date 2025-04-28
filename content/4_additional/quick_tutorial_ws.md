@@ -82,9 +82,11 @@ As soon as you click on "Commit changes", your changes will be saved.
 7. Push a new commit to your repo, i.e. make a change to one file (e.g., add a line to your README.md).
 
 8. Click on "Actions" at the top of your repository. You should see a workflow named "pages build and deployment" running. Wait until the process is complete, indicated by a green checkmark.
+   
 ![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/green-checkmark.png)
 
 9. Go back to "Settings", and then "Pages". Select "gh-pages" (instead of "main") as branch.
+    
 ![Image of the settings under Branch.](../../static/gh-pages.png)
 
 10. Finally, on the top of this Setting page, under "GitHub Pages", you should now find a field that looks like this:
