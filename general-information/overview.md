@@ -64,26 +64,16 @@ This template is supposed to be used as a starting point to generate your own co
 
 ## How to Reach the Content Creators
 
-If you have questions about course content - these are awesome! We want everyone to see them and have their questions answered, too, so you could use the [hypothes.is](https://web.hypothes.is/) plugin, on the right-hand side of this website. Overlayed over the scroll bar, you'll find buttons/functionality to annotate and highlight relevant information about this website. Feel free to use this tool to discuss, annotate, or ask questions regarding the site content there!
+If you have questions about course content, feel free to [open an issue](https://github.com/luciebinder/ws-openness-2025/issues) on the GitHub repository, and I will try and get back to you as soon as possible or simply shoot me an e-mail!
 
-This is how the hypothes.is buttons look like: 
-![image of the hypothesis buttons](../static/hypothesis.png) 
-Press the top arrow to display the sidebar.
+The contact information of the instructor is as follows:
 
-Otherwise, feel free to [open an issue](https://github.com/DiLER-Digitell/tutorial_jupyter_books/issues) on the GitHub repository, and someone will try and get back to you as soon as possible or simply shoot us an e-mail!
+[Lucie Binder](https://github.com/luciebinder)
 
-The contact information of the instructors is as follows:
-
-| Name | Email address |
-| --- | --- |
-| [Michael Ernst](https://github.com/M-earnest) (He/Him) | `ernst@psych.uni-frankfurt.de` |
-| [Lucie Binder](https://github.com/luciebinder) (She/Her) | `binder@psych.uni-frankfurt.de` |
-| [Nariman Utegaliyev](https://github.com/utegali) (He/Him) | `utegaliyev@psych.uni-frankfurt.de` |
-| [Jannika Hollmann](https://github.com/JannikaHollmann) (She/Her) | `j.hollmann@em.uni-frankfurt.de` |
+- E-mail: `binder@psych.uni-frankfurt.de`
 
 ```{admonition} How do we address one another?
-:class: hint, dropdown
-When contacting us, please refrain from using honoraries and formal language, our first name or "you" is fine as long as the content is respectful, fair, and constructive (we aim for the same when we reply).
-However, please let us know if you have a preferred way of interacting with other folks, including how you would like to be addressed, your pronouns, and the level of formality.
+:class: dropdown
+She/Her. When contacting me, please refrain from using honoraries and formal language, "Lucie" or "you" is fine as long as the content is respectful, fair, and constructive (I aim for the same when I reply).
+However, please let me know if you have a preferred way of interacting with other folks, including how you would like to be addressed, your pronouns, and the level of formality.
 ```
-
