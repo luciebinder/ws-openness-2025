@@ -2,7 +2,7 @@
 
 # What's in this repository?
 
-This repository contains a tutorial for the Workshop "Openness in Higher Education" on how to create interactive content with Jupyter Books.
+This repository contains a tutorial for the Workshop "Openness in the Higher Education Classroom" on how to create interactive content with Jupyter Books.
 
 Find the course here: https://luciebinder.github.io/ws-openness-2025
 
