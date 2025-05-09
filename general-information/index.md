@@ -1,6 +1,11 @@
 ![Logo of the DiLER project](../static/logo.png)
 # **Welcome!**
 
+-- under construction --
+
+Group session on "Working collaborative with Jupyter Book: An open-source t to create open and flexible teaching/learning materials" for the Workshop "Openness in the Higher Education Classroom ", June 2025 
+
+ 
 Hello and welcome everyone to our course **Creating interactive content with Jupyter Books** created as part of [DigiTeLL](https://www.uni-frankfurt.de/106198465/Digital_Teaching_and_Learning_Lab___DigiTeLL), by the [DiLER](https://diler-digitell.github.io/intro.html) project. Our project aims to provide open and free educational resources to promote key digital skills for working in empirical sciences. At the same time, we empower course instructors to take advantage of interactive, flexible, and open-source tools to enhance their teachings.
 
 As you read through the subsections of this website, you will gain insight into how to create beautiful, easy-to-deploy, and interactive content quickly. Simply follow the outline discussed in the [Course Overview & Procedure section](overview) to learn what this course is about and how to navigate the materials.
