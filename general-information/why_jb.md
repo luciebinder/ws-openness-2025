@@ -39,7 +39,6 @@ to create such a list:
   - item a
   - item b  
 - item 3
-
 ````
 
 
@@ -66,10 +65,7 @@ to create such a list:
 
 **Collaborate and share easily**, thanks to its open-source nature and GitHub integration.
 
-<iframe src="https://github.com/luciebinder/ws-openness-2025/blob/main/static/collaborators.png?raw=true" alt="Image of the settings in GitHub where you choose your collaborators" class="bg-primary mb-1" width="400px">
-
 ![Image of the settings in GitHub where you choose your collaborators](../static/collaborators.png)
-
 ```
 
 ```{dropdown} 4. Interactive elements
