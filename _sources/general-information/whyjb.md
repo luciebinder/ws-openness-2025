@@ -58,7 +58,7 @@ to create such a list:
 **Video integration** 📺  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9YuNGB3vNOw?si=dPCD8xeLaUuimvYP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Integration of presentations  ** 
+**Integration of presentations** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJvUAN-dg7r7Dbj-KpxcNO6ssd7akDQjBbHzhTTBBU7zSBZ4sTfjYPtHZL6V7GmM0VQvo6Aviu5oSG/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ```
 
@@ -67,6 +67,9 @@ to create such a list:
 **Collaborate and share easily**, thanks to its open-source nature and GitHub integration.
 
 <iframe src="https://github.com/luciebinder/ws-openness-2025/blob/main/static/collaborators.png?raw=true" alt="Image of the settings in GitHub where you choose your collaborators" class="bg-primary mb-1" width="400px">
+
+![Image of the settings in GitHub where you choose your collaborators](../static/collaborators.png)
+
 ```
 
 ```{dropdown} 4. Interactive elements
