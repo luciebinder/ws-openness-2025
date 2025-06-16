@@ -24,21 +24,21 @@ You will have developed your own course concept and set up your own course by us
 # How did we get here?
 We believe that education should be available to as many people as possible, which is why this website is created as an open and free resource; if you’d like to create a course following our framework, please consider doing the same. Especially important should be the inclusion (and possibly adaptation) of our [diversity, equity, and inclusion statement](../resources/dei), our [open science statement](../resources/open_science), and the [Code of Conduct](../resources/CoC) to promote [FAIR](https://www.nature.com/articles/sdata201618) (Wilkinson et al., 2016) and inclusive access to education.
    
-# The goal of the DiLER project
+# How do we proceed?
+- Introduction to Open Educational Resources
+- Introduction in Jupyter Book and GitHub pages
+  - What is possible?
+  - How is the whole thing structured?
+- Create your own course concept
+- Set up your own course website with help of our template and our practical guide
+- Summary/Discussion
 
-The DiLER project aims to create a framework for providing, bundling, and introducing the benefits of free, open-source resources for promoting research-based learning, with a focus on the core competency of “digital literacy” in empirical sciences. This is done through multimedia, competence-oriented content, and exams that cover the entire empirical research process, using examples from various requirements of psychology studies.
+# Where is everything?
 
-Our project places a strong emphasis on promoting sustainability and transferability to other content and application areas, supported by integrated feedback options for students and teachers, and incorporating necessary hardware and software infrastructure. The project also primarily follows the FAIR principles (Findability, Accessibility, Interoperability, and Reuse of digital assets) in order to maximize the benefits and accessibility of provided materials.
+All course materials will be available on this very website. Everything will be completely open and free to use, thus constituting an open educational resource. You are free to explore, enhance, and share. Thus, this website and all materials will also remain up ideally to the end of the internet but will possibly be subject to changes and updates. If you feel the need to save this resource as it is at the moment you’re reading this, you can download the complete course from our GitHub repo [here](https://github.com/luciebinder/ws-openness-2025). The usage of this resource and the materials therein will be explained at the beginning and throughout the course.
 
-# Mission statement: Digital Literacy
+We will also be providing a course template that will serve as a tool for our practical examples and can be downloaded [here](https://github.com/luciebinder/course-template-minimal). The template contains a folder structure, some example content files, a license, an open science statement, an equity, diversity, and inclusion statement, as well as a code of conduct for your course. This template is supposed to be used as a starting point to generate your own course. Simply add your content or adapt the preexisting resources, adapt the structure to your liking, and upload the whole thing into an online GitHub repository, and your course website will be created automatically.
 
-With the surge of progressively more available and interconnected data, Digital Literacy has become a skill integral in teaching, science, and everyday life. Digital Literacy is a term describing competencies of using modern information technology, managing information, thinking critically, and selecting and applicating these reasonably. These skills are not only relevant due to the increasing levels of complexity of science, limited access to resources, and transparencies of digital infrastructures, but also necessary for independent empirical research.
+# Questions so far?
 
-Traditional educational models are often insufficient in conveying the intricacies of digital literacy. Therefore, this project aims to empower course instructors to take advantage of interactive, flexible, and open-source resources to enhance their teachings.
 
-Digital Literacy is not just about being tech-savvy but encompasses a broader set of competencies that include the ability to identify and evaluate information sources, to communicate and collaborate effectively, to manage digital footprints, and to protect privacy and data security. These competencies are essential for students to thrive in the digital age and to become active and responsible digital citizens.
-
-The project seeks to provide instructors with the necessary resources to incorporate digital literacy skills into their curriculum, enabling them to teach their students how to navigate the digital landscape safely, effectively, and ethically. By doing so, students will be better equipped to succeed in today’s digital world and will be prepared for the challenges and opportunities that the future holds.
-
-## Next Page:
-When you click on the next section {doc}`overview`, you will find more details on the objectives and the structure of this website.
