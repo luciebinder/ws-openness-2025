@@ -434,33 +434,26 @@ document.write(`
 <p>Among the various tools available for creating OERs, why is our approach based on Jupyter Book?</p>
 <p><strong>Great question!</strong></p>
 <p>Jupyter Book is a powerful and flexible tool for creating open and interactive educational content. It is an open source tool that has been developed by the <a class="reference external" href="https://jupyter.org/about">Project Jupyter</a>, a non-profit and open-source project that aimed to support interactive data science. However, Jupyter Book is agnostic and can be used for any type of content.</p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>Here’s a gallery of Jupyter Books created by the community: https://executablebooks.org/en/latest/gallery/</p>
-</div>
 <p>Below are some key reasons to consider using Jupyter Book for your next project:</p>
 <details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
 <summary class="sd-summary-title sd-card-header">
-1. <strong>Text can be easily formatted in Markdown files</strong> (text), and code can be written in Jupyter notebooks.<div class="sd-summary-down docutils">
+1. <strong>Text can be easily formatted in Markdown files</strong>  (text), and code can be written in Jupyter notebooks.<div class="sd-summary-down docutils">
 <svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
 <div class="sd-summary-up docutils">
 <svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
 </summary><div class="sd-summary-content sd-card-body docutils">
 <p class="sd-card-text">Here are some formatting basics:</p>
 <ol class="arabic simple">
-<li><p class="sd-card-text">Use hashtags <code class="docutils literal notranslate"><span class="pre">#</span></code> before your heading:</p></li>
+<li><p class="sd-card-text">Use hashtags <code class="docutils literal notranslate"><span class="pre">#</span></code> before your heading to create various levels of headings:</p></li>
 </ol>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1"># Heading 1</span>
 <span class="c1">## Heading 1.1</span>
 <span class="c1">### Heading 1.1.1</span>
 </pre></div>
 </div>
-<p class="rubric">Heading 1</p>
-<p class="rubric">Heading 1.1</p>
-<p class="rubric">Heading 1.1.1</p>
 <ol class="arabic simple" start="2">
-<li><p class="sd-card-text">Add a <code class="docutils literal notranslate"><span class="pre">*</span></code> before and after a word to make your text <em>italic</em> and add <code class="docutils literal notranslate"><span class="pre">**</span></code> to make it <strong>bold</strong>
-<code class="docutils literal notranslate"><span class="pre">*italic*</span></code>–&gt; <em>italic</em>
+<li><p class="sd-card-text">Add a <code class="docutils literal notranslate"><span class="pre">*</span></code> before and after a word to make your text <em>italic</em> and add <code class="docutils literal notranslate"><span class="pre">**</span></code> to make it <strong>bold</strong><br />
+<code class="docutils literal notranslate"><span class="pre">*italic*</span></code>–&gt; <em>italic</em><br />
 <code class="docutils literal notranslate"><span class="pre">**bold**</span></code>–&gt; <strong>bold</strong></p></li>
 <li><p class="sd-card-text">Build (nested) lists by using either <code class="docutils literal notranslate"><span class="pre">*</span></code> or <code class="docutils literal notranslate"><span class="pre">-</span></code> before a list item</p></li>
 </ol>
@@ -485,6 +478,25 @@ document.write(`
 <li><p class="sd-card-text">item 3</p></li>
 </ul>
 </div>
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+2. <strong>Integrate visualizations, audio, videos, live code, equations, citations, cross-references and text seamlessly</strong> into a single document to create an engaging learning experience.<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text"><strong>Image/Gif integration</strong> 🖼️</p>
+<iframe src="https://giphy.com/embed/YPzvV7N0Cnlbbrigvp" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bigbangtheory-season-1-episode-9-big-bang-theory-YPzvV7N0Cnlbbrigvp">via GIPHY</a></p>
+<p class="sd-card-text"><strong>Audio integration</strong> 🎧</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3GJ6jnDrapgXAmxEXO6fWw?utm_source=generator" 
+        width="100%" height="352" frameborder="0" 
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+</iframe>
+<p class="sd-card-text"><strong>Video integration</strong> 📺</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9YuNGB3vNOw?si=dPCD8xeLaUuimvYP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p class="sd-card-text">**Integration of presentations  **</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJvUAN-dg7r7Dbj-KpxcNO6ssd7akDQjBbHzhTTBBU7zSBZ4sTfjYPtHZL6V7GmM0VQvo6Aviu5oSG/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 </details><ol class="arabic simple">
 <li><p><strong>Text can be easily formatted in Markdown files</strong> (text), and code can be written in Jupyter notebooks.</p></li>
 <li><p><strong>Integrate live code, equations, visualizations, citations, cross-references and text seamlessly</strong> into a single document to create an engaging learning experience.</p></li>
@@ -494,6 +506,10 @@ document.write(`
 <li><p><strong>Rely on a strong community and extensive support</strong>, as Jupyter Book builds on the widely used Jupyter Notebook ecosystem.</p></li>
 </ol>
 <p>By leveraging Jupyter Books, educators can create dynamic, reusable, and interactive learning experiences that align with modern teaching and research needs.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Here’s a gallery of Jupyter Books created by the community: https://executablebooks.org/en/latest/gallery/</p>
+</div>
 </section>
 
     <script type="text/x-thebe-config">
