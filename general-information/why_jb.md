@@ -24,6 +24,7 @@ Here are some formatting basics:
 `*italic*`--> *italic*  
 `**bold**`--> **bold**  
 
+
 3) Build (nested) lists by using either `*` or `-` before a list item
 ```
 * item 1
@@ -62,7 +63,6 @@ to create such a list:
 ```
 
 ```{dropdown} 3. Collaboration and sharing
-
 **Collaborate and share easily**, thanks to its open-source nature and GitHub integration.
 
 ![Image of the settings in GitHub where you choose your collaborators](../static/collaborators.png)
@@ -80,7 +80,6 @@ When you read this, you already opened a dropdown, that can be used for hints, s
 You can download this page by clicking on the download button on the upper right side.
  
 ![Image of the download button on the upper right side](../static/download-button.png)
-
 ```
 
 ```{dropdown} 5. Strong community and support
