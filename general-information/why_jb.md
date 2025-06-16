@@ -1,4 +1,4 @@
-# Why Use Jupyter Book?
+# Why use Jupyter Book?
 
 Among the various tools available for creating OERs, why is our approach based on Jupyter Book?
 
