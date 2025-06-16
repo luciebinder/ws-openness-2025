@@ -8,7 +8,9 @@ Jupyter Book is a powerful and flexible tool for creating open and interactive e
 
 Below are some key reasons to consider using Jupyter Book for your next project:
 
-````{dropdown} 1. **Text can be easily formatted in Markdown files**  (text), and code can be written in Jupyter notebooks.
+````{dropdown} 1. Easy formatting
+**Text can be easily formatted in Markdown files**  (text), and code can be written in Jupyter notebooks.
+
 Here are some formatting basics:
 
 1) Use hashtags `#` before your heading to create various levels of headings:
@@ -41,7 +43,8 @@ to create such a list:
 ````
 
 
-```{dropdown} 2. **Integrate visualizations, audio, videos, live code, equations, citations, cross-references and text seamlessly** into a single document to create an engaging learning experience.
+```{dropdown} 2. Multimedia integration
+**Integrate visualizations, audio, videos, live code, equations, citations, cross-references and text seamlessly** into a single document to create an engaging learning experience.
 
 **Image/Gif integration** 🖼️
 <iframe src="https://giphy.com/embed/YPzvV7N0Cnlbbrigvp" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bigbangtheory-season-1-episode-9-big-bang-theory-YPzvV7N0Cnlbbrigvp">via GIPHY</a></p>
@@ -57,17 +60,44 @@ to create such a list:
 
 **Integration of presentations  ** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJvUAN-dg7r7Dbj-KpxcNO6ssd7akDQjBbHzhTTBBU7zSBZ4sTfjYPtHZL6V7GmM0VQvo6Aviu5oSG/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 ```
+
+```{dropdown} 3. Collaboration and sharing
+
+**Collaborate and share easily**, thanks to its open-source nature and GitHub integration.
+
+<iframe src="https://github.com/luciebinder/ws-openness-2025/blob/main/static/collaborators.png?raw=true" alt="Image of the settings in GitHub where you choose your collaborators" class="bg-primary mb-1" width="400px">
+```
+
+```{dropdown} 4. Interactive elements
+**Enhance exercises and quizzes** with interactive elements such as sliders and dropdowns.
+
+When you read this, you already opened a dropdown, that can be used for hints, spoilers, etc. 
+```
+
+```{dropdown} 5. Accessibility
+**Make your materials accessible across platforms** with multiple export formats (HTML, PDF, EPUB).
+
+You can download this page by clicking on the download button on the upper right side.
+ 
+<iframe src="https://github.com/luciebinder/ws-openness-2025/blob/main/static/collaborators.png?raw=true" alt="Image of the settings in GitHub where you choose your collaborators" class="bg-primary mb-1">
+```
+
+```{dropdown} 5. Strong community and support
+**Rely on a strong community and extensive support**, as Jupyter Book builds on the widely used Jupyter Notebook ecosystem.
+
+Here are, e.g., the [community forum](https://discourse.jupyter.org/) and an freely accessible [tutorial](https://jupyterbook.org/en/stable/intro.html). 
+```
+
 
 
 
 1. **Text can be easily formatted in Markdown files** (text), and code can be written in Jupyter notebooks.
 2. **Integrate live code, equations, visualizations, citations, cross-references and text seamlessly** into a single document to create an engaging learning experience.
-4. **Collaborate and share easily**, thanks to its open-source nature and GitHub integration.
-5. **Enhance exercises and quizzes** with interactive elements such as sliders and dropdowns.
-6. **Make your materials accessible across platforms** with multiple export formats (HTML, PDF, EPUB).
-7. **Rely on a strong community and extensive support**, as Jupyter Book builds on the widely used Jupyter Notebook ecosystem.
+3. **Collaborate and share easily**, thanks to its open-source nature and GitHub integration.
+4. **Enhance exercises and quizzes** with interactive elements such as sliders and dropdowns.
+5. **Make your materials accessible across platforms** with multiple export formats (HTML, PDF, EPUB).
+6. **Rely on a strong community and extensive support**, as Jupyter Book builds on the widely used Jupyter Notebook ecosystem.
 
 By leveraging Jupyter Books, educators can create dynamic, reusable, and interactive learning experiences that align with modern teaching and research needs.
 
