@@ -85,7 +85,7 @@ You can download this page by clicking on the download button on the upper right
 ```{dropdown} 5. Strong community and support
 **Rely on a strong community and extensive support**, as Jupyter Book builds on the widely used Jupyter Notebook ecosystem.
 
-Here are, e.g., the [community forum](https://discourse.jupyter.org/) and an freely accessible [tutorial](https://jupyterbook.org/en/stable/intro.html). 
+Here are, e.g., the [community forum](https://discourse.jupyter.org/) and a freely accessible [documentation](https://jupyterbook.org/en/stable/intro.html). 
 ```
 
 
