@@ -10,7 +10,8 @@ parts:
   - file: content/account
 - caption: Creating Interactive Content With Jupyter Books
   chapters:
-  - file: general-information/whyjb
+  - file: general-information/why_oer
+  - file: general-information/why_jb
   - file: content/4_additional/quick_tutorial_ws
 - caption: Step-by-Step Tutorial 
   chapters:
