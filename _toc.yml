@@ -11,8 +11,14 @@ parts:
   chapters:
   - file: general-information/why_oer
   - file: general-information/why_jb
+- caption: Independent work
+  chapters:
+  - file: general-information/assignment  
   - file: content/4_additional/quick_tutorial_ws
-- caption: Step-by-Step Tutorial 
+- caption: Wrap-up
+  chapters:
+  - file: general-information/wrap-up  
+- caption: In-depth Tutorial 
   chapters:
   - file: content/1_github/intro
     sections:
