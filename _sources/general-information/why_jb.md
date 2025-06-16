@@ -24,6 +24,7 @@ Here are some formatting basics:
 `*italic*`--> *italic*  
 `**bold**`--> **bold**  
 
+
 3) Build (nested) lists by using either `*` or `-` before a list item
 ```
 * item 1
@@ -42,7 +43,7 @@ to create such a list:
 ````
 
 
-```{dropdown} 2. Multimedia integration
+````{dropdown} 2. Multimedia integration
 **Integrate visualizations, audio, videos, live code, equations, citations, cross-references and text seamlessly** into a single document to create an engaging learning experience.
 
 **Image/Gif integration** 🖼️
@@ -59,10 +60,9 @@ to create such a list:
 
 **Integration of presentations** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJvUAN-dg7r7Dbj-KpxcNO6ssd7akDQjBbHzhTTBBU7zSBZ4sTfjYPtHZL6V7GmM0VQvo6Aviu5oSG/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-```
+````
 
 ```{dropdown} 3. Collaboration and sharing
-
 **Collaborate and share easily**, thanks to its open-source nature and GitHub integration.
 
 ![Image of the settings in GitHub where you choose your collaborators](../static/collaborators.png)
@@ -79,7 +79,7 @@ When you read this, you already opened a dropdown, that can be used for hints, s
 
 You can download this page by clicking on the download button on the upper right side.
  
-<iframe src="https://github.com/luciebinder/ws-openness-2025/blob/main/static/collaborators.png?raw=true" alt="Image of the settings in GitHub where you choose your collaborators" class="bg-primary mb-1">
+![Image of the download button on the upper right side](../static/download-button.png)
 ```
 
 ```{dropdown} 5. Strong community and support
