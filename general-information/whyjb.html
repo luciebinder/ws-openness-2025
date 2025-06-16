@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Why Use Jupyter Books? &#8212; Creating Educational Content with Jupyter Books</title>
+    <title>Why Use Jupyter Book? &#8212; Creating Educational Content with Jupyter Books</title>
   
   
   
@@ -179,7 +179,7 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Creating Interactive Content With Jupyter Books</span></p>
 <ul class="current nav bd-sidenav">
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Why Use Jupyter Books?</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Why Use Jupyter Book?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content/4_additional/quick_tutorial_ws.html">Quick Setup Guide</a></li>
 
 </ul>
@@ -415,7 +415,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Why Use Jupyter Books?</h1>
+    <h1>Why Use Jupyter Book?</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -429,17 +429,69 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section id="why-use-jupyter-books">
-<h1>Why Use Jupyter Books?<a class="headerlink" href="#why-use-jupyter-books" title="Permalink to this heading">#</a></h1>
-<p>Among the various tools available for creating OERs, why is our approach based on Jupyter Books?</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="why-use-jupyter-book">
+<h1>Why Use Jupyter Book?<a class="headerlink" href="#why-use-jupyter-book" title="Permalink to this heading">#</a></h1>
+<p>Among the various tools available for creating OERs, why is our approach based on Jupyter Book?</p>
 <p><strong>Great question!</strong></p>
-<p>Jupyter Book is a powerful, flexible tool for creating open, interactive educational content. Here are some key reasons to consider Jupyter Book for your next project:</p>
+<p>Jupyter Book is a powerful and flexible tool for creating open and interactive educational content. It is an open source tool that has been developed by the <a class="reference external" href="https://jupyter.org/about">Project Jupyter</a>, a non-profit and open-source project that aimed to support interactive data science. However, Jupyter Book is agnostic and can be used for any type of content.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Here’s a gallery of Jupyter Books created by the community: https://executablebooks.org/en/latest/gallery/</p>
+</div>
+<p>Below are some key reasons to consider using Jupyter Book for your next project:</p>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+1. <strong>Text can be easily formatted in Markdown files</strong> (text), and code can be written in Jupyter notebooks.<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">Here are some formatting basics:</p>
 <ol class="arabic simple">
-<li><p><strong>Seamlessly integrate live code, equations, visualizations, and text</strong> in a single document for an engaging learning experience.</p></li>
-<li><p><strong>Open-source and GitHub-friendly</strong>, enabling easy collaboration and sharing.</p></li>
-<li><p><strong>Interactive elements</strong> like sliders and dropdowns enhance exercises and quizzes.</p></li>
-<li><p><strong>Multiple export formats</strong> (HTML, PDF, EPUB) ensure accessibility across platforms and devices.</p></li>
-<li><p><strong>Built on Jupyter Notebook</strong>, benefiting from a large community and extensive support.</p></li>
+<li><p class="sd-card-text">Use hashtags <code class="docutils literal notranslate"><span class="pre">#</span></code> before your heading:</p></li>
+</ol>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1"># Heading 1</span>
+<span class="c1">## Heading 1.1</span>
+<span class="c1">### Heading 1.1.1</span>
+</pre></div>
+</div>
+<p class="rubric">Heading 1</p>
+<p class="rubric">Heading 1.1</p>
+<p class="rubric">Heading 1.1.1</p>
+<ol class="arabic simple" start="2">
+<li><p class="sd-card-text">Add a <code class="docutils literal notranslate"><span class="pre">*</span></code> before and after a word to make your text <em>italic</em> and add <code class="docutils literal notranslate"><span class="pre">**</span></code> to make it <strong>bold</strong>
+<code class="docutils literal notranslate"><span class="pre">*italic*</span></code>–&gt; <em>italic</em>
+<code class="docutils literal notranslate"><span class="pre">**bold**</span></code>–&gt; <strong>bold</strong></p></li>
+<li><p class="sd-card-text">Build (nested) lists by using either <code class="docutils literal notranslate"><span class="pre">*</span></code> or <code class="docutils literal notranslate"><span class="pre">-</span></code> before a list item</p></li>
+</ol>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">*</span> <span class="n">item</span> <span class="mi">1</span>
+<span class="o">*</span> <span class="n">item</span> <span class="mi">2</span>
+  <span class="o">-</span> <span class="n">item</span> <span class="n">a</span>
+  <span class="o">-</span> <span class="n">item</span> <span class="n">b</span>  
+<span class="o">-</span> <span class="n">item</span> <span class="mi">3</span>
+</pre></div>
+</div>
+<p class="sd-card-text">to create such a list:</p>
+<ul class="simple">
+<li><p class="sd-card-text">item 1</p></li>
+<li><p class="sd-card-text">item 2</p>
+<ul>
+<li><p class="sd-card-text">item a</p></li>
+<li><p class="sd-card-text">item b</p></li>
+</ul>
+</li>
+</ul>
+<ul class="simple">
+<li><p class="sd-card-text">item 3</p></li>
+</ul>
+</div>
+</details><ol class="arabic simple">
+<li><p><strong>Text can be easily formatted in Markdown files</strong> (text), and code can be written in Jupyter notebooks.</p></li>
+<li><p><strong>Integrate live code, equations, visualizations, citations, cross-references and text seamlessly</strong> into a single document to create an engaging learning experience.</p></li>
+<li><p><strong>Collaborate and share easily</strong>, thanks to its open-source nature and GitHub integration.</p></li>
+<li><p><strong>Enhance exercises and quizzes</strong> with interactive elements such as sliders and dropdowns.</p></li>
+<li><p><strong>Make your materials accessible across platforms</strong> with multiple export formats (HTML, PDF, EPUB).</p></li>
+<li><p><strong>Rely on a strong community and extensive support</strong>, as Jupyter Book builds on the widely used Jupyter Notebook ecosystem.</p></li>
 </ol>
 <p>By leveraging Jupyter Books, educators can create dynamic, reusable, and interactive learning experiences that align with modern teaching and research needs.</p>
 </section>
