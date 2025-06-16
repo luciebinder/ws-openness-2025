@@ -39,6 +39,24 @@ All course materials will be available on this very website. Everything will be 
 
 We will also be providing a course template that will serve as a tool for our practical examples and can be downloaded [here](https://github.com/luciebinder/course-template-minimal). The template contains a folder structure, some example content files, a license, an open science statement, an equity, diversity, and inclusion statement, as well as a code of conduct for your course. This template is supposed to be used as a starting point to generate your own course. Simply add your content or adapt the preexisting resources, adapt the structure to your liking, and upload the whole thing into an online GitHub repository, and your course website will be created automatically.
 
+# How to reach me
+
+During this workshop, you can find me in our group session room.
+
+If you have any questions afterward, feel free to send me an email.
+ 
+The instructor’s contact details are:
+
+[Lucie Binder](https://github.com/luciebinder)
+
+- E-mail: `binder@psych.uni-frankfurt.de`
+
+```{admonition} How do we address one another?
+:class: dropdown
+She/Her. When contacting me, please refrain from using honoraries and formal language, "Lucie" or "you" is fine as long as the content is respectful, fair, and constructive (I aim for the same when I reply).
+However, please let me know if you have a preferred way of interacting with other folks, including how you would like to be addressed, your pronouns, and the level of formality.
+```
+
 # Questions so far?
 
 
