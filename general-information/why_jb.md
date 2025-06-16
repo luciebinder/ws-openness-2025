@@ -79,7 +79,8 @@ When you read this, you already opened a dropdown, that can be used for hints, s
 
 You can download this page by clicking on the download button on the upper right side.
  
-<iframe src="https://github.com/luciebinder/ws-openness-2025/blob/main/static/collaborators.png?raw=true" alt="Image of the settings in GitHub where you choose your collaborators" class="bg-primary mb-1">
+![Image of the download button on the upper right side](../static/download-button.png)
+
 ```
 
 ```{dropdown} 5. Strong community and support
