@@ -4,9 +4,8 @@
 format: jb-book
 root: general-information/index
 parts:
-- caption: Getting Started
+- caption: Preparation
   chapters:
-  - file: general-information/overview
   - file: content/account
 - caption: Creating Interactive Content With Jupyter Books
   chapters:
