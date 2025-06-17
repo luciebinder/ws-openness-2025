@@ -1,9 +1,9 @@
 # Quick Setup Guide 
 
-Okay, now let's get started! With your own course concept in mind, you will learn now ho to create and host you Jupyter Book course website. 
+Okay, now let's get started! With your own course concept in mind, you will learn now how to create and host your Jupyter Book course website. 
 
 
-If you have any questions, feel free to click on the section titels to dive into the detailed tutorials or get in touch with the group instructor! 
+If you have any questions, feel free to click on the section titels to dive into the detailed tutorials or get in touch with me! 
 
 ## 1. [Set up your GitHub account](../1_github/account)
 If you haven't already set up your GitHub account, please go to the [respective section](../1_github/account).  
@@ -11,7 +11,7 @@ If you haven't already set up your GitHub account, please go to the [respective 
 ## 2. [Copy our course template](../1_github/project)
 Let's copy our ready-to-go course template! It’s the quickest way to get started — simply customize and add your own pages to fit your content, without worrying about setting up a project from scratch. 
 
-1. Go to the GitHub page of our [course template](https://github.com/DiLER-Digitell/Course-template) and click on "fork".
+1. Go to the GitHub page of our [course template](https://github.com/luciebinder/course-template-minimal) and click on "fork".
 
 ![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)
 
