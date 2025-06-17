@@ -82,6 +82,8 @@ By inspecting a specific commit, we can review the exact changes that were appli
 **Enhance exercises and quizzes** with interactive elements such as sliders and dropdowns.
 
 When you read this, you already opened a dropdown, that can be used for tips, hints, spoilers, warnings, etc.
+
+Or you can include an [interactive quiz](https://mybinder.org/v2/gh/luciebinder/ws-openness-2025/main?urlpath=%2Fdoc%2Ftree%2Fvoila%2Frender%2Finteractives%2FMCQ_feedback.ipynb)!
 ```
 
 ```{dropdown} 5. Accessibility
