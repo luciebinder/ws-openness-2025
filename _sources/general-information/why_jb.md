@@ -65,13 +65,23 @@ to create such a list:
 ```{dropdown} 3. Collaboration and sharing
 **Collaborate and share easily**, thanks to its open-source nature and GitHub integration.
 
-![Image of the settings in GitHub where you choose your collaborators](../static/collaborators.png)
+Here, I have added my colleague to the project:
+
+![Image showing the GitHub settings where collaborators are added](../static/collaborators.png)
+
+Now, both of us can track all changes (called _commits_) made to the project:
+
+![Image of a list of commits on GitHub](../static/commit-list.png)
+
+By inspecting a specific commit, we can review the exact changes that were applied:
+
+![Image of tracked changes in one commit example](../static/commit-example.png)
 ```
 
 ```{dropdown} 4. Interactive elements
 **Enhance exercises and quizzes** with interactive elements such as sliders and dropdowns.
 
-When you read this, you already opened a dropdown, that can be used for hints, spoilers, etc. 
+When you read this, you already opened a dropdown, that can be used for tips, hints, spoilers, warnings, etc.
 ```
 
 ```{dropdown} 5. Accessibility
@@ -87,16 +97,6 @@ You can download this page by clicking on the download button on the upper right
 
 Here are, e.g., the [community forum](https://discourse.jupyter.org/) and a freely accessible [documentation](https://jupyterbook.org/en/stable/intro.html). 
 ```
-
-
-
-
-1. **Text can be easily formatted in Markdown files** (text), and code can be written in Jupyter notebooks.
-2. **Integrate live code, equations, visualizations, citations, cross-references and text seamlessly** into a single document to create an engaging learning experience.
-3. **Collaborate and share easily**, thanks to its open-source nature and GitHub integration.
-4. **Enhance exercises and quizzes** with interactive elements such as sliders and dropdowns.
-5. **Make your materials accessible across platforms** with multiple export formats (HTML, PDF, EPUB).
-6. **Rely on a strong community and extensive support**, as Jupyter Book builds on the widely used Jupyter Notebook ecosystem.
 
 By leveraging Jupyter Books, educators can create dynamic, reusable, and interactive learning experiences that align with modern teaching and research needs.
 
