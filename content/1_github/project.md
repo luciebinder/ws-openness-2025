@@ -6,7 +6,7 @@ After that, you'll also learn how to start a brand-new project on GitHub. While 
 
 ## Forking the Course Template
 
-To create your own course repository, you'll need to "fork" (i.e., copy) the course template repository to your account. Simply go to the [course template repo](https://github.com/DiLER-Digitell/Course-template), ensure you're logged in, and click "Fork". 
+To create your own course repository, you'll need to "fork" (i.e., copy) the course template repository to your account. Simply go to the [course template repo](https://github.com/luciebinder/course-template-minimal), ensure you're logged in, and click "Fork". 
 
 ![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)
 
