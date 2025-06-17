@@ -11,6 +11,7 @@ parts:
   chapters:
   - file: general-information/why_oer
   - file: general-information/why_jb
+  - file: general-information/framework
 - caption: 2. Independent work
   chapters:
   - file: general-information/assignment  
