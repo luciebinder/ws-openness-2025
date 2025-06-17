@@ -1,4 +1,4 @@
-# Setting Up a GitHub Account
+# Setting up a GitHub account
 
 We ask you to set up a GitHub account in preparation for the workshop. So let's get started:
 
