@@ -4,21 +4,21 @@
 format: jb-book
 root: general-information/index
 parts:
-- caption: Preparation
+- caption: 0. Preparation
   chapters:
   - file: content/account
-- caption: Group session
+- caption: 1. Group session
   chapters:
   - file: general-information/why_oer
   - file: general-information/why_jb
-- caption: Independent work
+- caption: 2. Independent work
   chapters:
   - file: general-information/assignment  
   - file: content/4_additional/quick_tutorial_ws
-- caption: Wrap-up
+- caption: 3. Wrap-up
   chapters:
   - file: general-information/wrap-up  
-- caption: In-depth Tutorial 
+- caption: In-depth tutorial 
   chapters:
   - file: content/1_github/intro
     sections:
@@ -35,15 +35,8 @@ parts:
     - file: content/3_create/interactive2
     - file: content/3_create/citations
     - file: content/3_create/setup-files
-- caption: Additional Material
+- caption: Additional resources
   chapters:
-  - file: content/4_additional/quick_tutorial
-  - file: content/4_additional/git/intro
-    sections:
-    - file: content/4_additional/git/install
-    - file: content/4_additional/git/version_control
-    - file: content/4_additional/git/use
-  - file: content/4_additional/jupyter_notebook
   - file: resources/info
     sections:
     - file: resources/CoC
