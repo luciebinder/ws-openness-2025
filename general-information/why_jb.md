@@ -101,7 +101,7 @@ Here are, e.g., the [community forum](https://discourse.jupyter.org/) and a free
 By leveraging Jupyter Books, educators can create dynamic, reusable, and interactive learning experiences that align with modern teaching and research needs.
 
 
-````{card} Let's take a look!
+````{card} 
 Let's take a look!
 ^^^
 Please browse the [gallery of Jupyter Books created by the community](https://executablebooks.org/en/latest/gallery/).
@@ -109,6 +109,7 @@ Choose one example and explore its pages:
 - How does it look?
 - What elements have they integrated?
 - Which features might be interesting or useful for your own work?
+
 Take about 10 minutes for this activity. We will then discuss your impressions together. 
 ````
 
