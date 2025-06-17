@@ -9,6 +9,7 @@ We provide a ready-to-use course template that makes it easy for you to create y
 The template includes:
 - a folder structure to help you stay organized,
 - example pages you can edit or replace,
+- a table of content file,
 - a license for your materials,
 - an open science statement,
 - a statement on equity, diversity, and inclusion,
