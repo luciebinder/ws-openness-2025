@@ -102,7 +102,7 @@ By leveraging Jupyter Books, educators can create dynamic, reusable, and interac
 
 
 ````{card} 
-Let's take a look!
+**Let's take a look!**
 ^^^
 Please browse the [gallery of Jupyter Books created by the community](https://executablebooks.org/en/latest/gallery/).
 Choose one example and explore its pages:
