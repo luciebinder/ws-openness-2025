@@ -61,7 +61,7 @@ As soon as you click on "Commit changes", your changes will be saved.
 
 ![Image of the tab where the word "Settings" is located on the far right](../../static/settings.png)
 
-2. Click on "Pages" under "Code and automation".
+2. On the left side, click on "Pages" under "Code and automation".
 
 ![Image of the menu on the left side.](../../static/pages.png)
 
@@ -70,6 +70,10 @@ As soon as you click on "Commit changes", your changes will be saved.
 4. Under Branch: Select branch “main”, select the “/root” folder and save.
 
 ![Image of the settings under Branch.](../../static/branch.png)
+
+This should look like this now. Don't forget to click on save.
+
+![Image of the settings under Branch.](../../static/save-branch.png)
 
 5. Click on "Action" and then "General" under "Code and automation".
 
