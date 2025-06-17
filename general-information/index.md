@@ -26,7 +26,7 @@ We believe that education should be available to as many people as possible, whi
    
 # How do we proceed?
 - Introduction to Open Educational Resources
-- Introduction in Jupyter Book and GitHub pages
+- Introduction to Jupyter Book and our framework
   - What is possible?
   - How is the whole thing structured?
 - Create your own course concept
@@ -41,7 +41,7 @@ We will also be providing a course template that will serve as a tool for our pr
 
 # How to reach me
 
-During this workshop, you can find me in our group session room.
+During this workshop, you can find me in our online group session room.
 
 If you have any questions afterward, feel free to send me an email.
  
