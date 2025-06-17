@@ -85,9 +85,9 @@ When you read this, you already opened a dropdown, that can be used for tips, hi
 ```
 
 ```{dropdown} 5. Accessibility
-**Make your materials accessible across platforms** with multiple export formats (HTML, PDF, EPUB).
+**Make your materials accessible across platforms** with multiple export formats (HTML, PDF, EPUB). This also allows you to easily cite your course website in your CV or on your personal website.
 
-You can download this page by clicking on the download button on the upper right side.
+You can download this page by clicking on the download button on the upper right side. 
  
 ![Image of the download button on the upper right side](../static/download-button.png)
 ```
@@ -101,6 +101,15 @@ Here are, e.g., the [community forum](https://discourse.jupyter.org/) and a free
 By leveraging Jupyter Books, educators can create dynamic, reusable, and interactive learning experiences that align with modern teaching and research needs.
 
 
-```{admonition} Let's take a look!
-Here's a gallery of Jupyter Books created by the community: https://executablebooks.org/en/latest/gallery/ 
-```
+````{card} Let's take a look!
+Let's take a look!
+^^^
+Please browse the [gallery of Jupyter Books created by the community](https://executablebooks.org/en/latest/gallery/).
+Choose one example and explore its pages:
+- How does it look?
+- What elements have they integrated?
+- Which features might be interesting or useful for your own work?
+Take about 10 minutes for this activity. We will then discuss your impressions together. 
+````
+
+I know — some of these examples look really polished and complex! But don’t worry. On the next page, you’ll find information about our framework and easy-to-adapt template that will make creating your own course website really simple.
