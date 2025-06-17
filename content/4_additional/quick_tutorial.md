@@ -11,7 +11,7 @@ Choose your username carefully, as your username will be included in the link to
 
 ## 2. [Copy our course template](../1_github/project)
 
-1. Go to the GitHub page of our [course template](https://github.com/DiLER-Digitell/Course-template) and click on "fork".
+1. Go to the GitHub page of our [course template](https://github.com/luciebinder/course-template-minimal) and click on "fork".
 
 ![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)
 
@@ -47,6 +47,10 @@ Once you've created files, open the `_toc.yml`. Add your newly created files in 
 4. Under Branch: Select branch “main”, select the “/root” folder and save.
 
 ![Image of the settings under Branch.](../../static/branch.png)
+
+This should look like this now. Don't forget to click on save.
+
+![Image of the settings under Branch.](../../static/save-branch.png)
 
 5. Click on "Action" and then "General" under "Code and automation".
 
