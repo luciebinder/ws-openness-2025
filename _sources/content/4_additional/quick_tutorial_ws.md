@@ -22,11 +22,11 @@ Let's copy our ready-to-go course template! It’s the quickest way to get start
 ## 3. [Getting familiar with the course template](../1_github/template)
 Let's take a look into the structure of the course template:
 
-![depicting the contents of the course template repository on GitHub](../../static/repo.png)
+![depicting the contents of the course template repository on GitHub](../../static/folder-structure_minimal-template.png)
 
 Some files can be ignored, as they contain technical information for hosting the website. The majority of what you'll be modifying is located in the "lecture" content folder, which looks like this:
 
-![depicting the contents of the course template repository on GitHub](../../static/lecture_folder.png)
+![depicting the contents of the course template repository on GitHub](../../static/lecture-folder-structure.png)
 
 In this folder, you can add your content by editing or adding Markdown files.
 
