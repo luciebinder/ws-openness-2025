@@ -67,7 +67,7 @@ As soon as you click on "Commit changes", your changes will be saved.
 
 3. Under Source, select "Deploy from a branch".
 
-4. Under Branch: Select branch “main”, select the “/root” folder and save.
+4. Under Branch: Select branch “main”. The folder “/root” is automatically selected.
 
 ![Image of the settings under Branch.](../../static/branch.png)
 
