@@ -7,8 +7,7 @@ parts:
 - caption: Preparation
   chapters:
   - file: content/account
-  - file: content/Motivation
-- caption: Group session
+´- caption: Group session
   chapters:
   - file: general-information/why_oer
   - file: general-information/why_jb
