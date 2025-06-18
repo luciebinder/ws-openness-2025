@@ -1,3 +1,9 @@
+.md-content img {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
 # Quick Setup Guide 
 
 Okay, now let's get started! With your own course concept in mind, you will learn now how to create and host your Jupyter Book course website. 
