@@ -11,11 +11,11 @@ If you haven't already set up your GitHub account, please go to the [respective 
 ## 2. [Copy our course template](../1_github/project)
 Let's copy our ready-to-go course template! It’s the quickest way to get started — simply customize and add your own pages to fit your content, without worrying about setting up a project from scratch. 
 
-1. Go to the GitHub page of our [course template](https://github.com/luciebinder/course-template-minimal) and click on "fork".
+1\. Go to the GitHub page of our [course template](https://github.com/luciebinder/course-template-minimal) and click on "fork".
 
 ![depicting position a look of the fork button on a GitHub repository](../../static/fork-button.png)
 
-2. Give your course a name and a description, check the box "Copy the main branch only," and click the "Create fork" button.
+2\. Give your course a name and a description, check the box "Copy the main branch only," and click the "Create fork" button.
 
 ![depicting position a look of the fork button on a GitHub repository](../../static/create_fork.png)
 
@@ -34,19 +34,19 @@ In this folder, you can add your content by editing or adding Markdown files.
 
 Let's edit your first file, the `_config.yml` file! Here, you'll update the course title, authors' names, affiliations, and other key details to make the template your own.
 
-1. To edit a file, click on the specific file (here: `_config.yml`). 
+1\. To edit a file, click on the specific file (here: `_config.yml`). 
 
 ![Image of the file structure.](../../static/click_on_file.png)
 
-2. Click the edit button, represented by a small pencil in the upper right corner. 
+2\. Click the edit button, represented by a small pencil in the upper right corner. 
 
 ![Image of the edit button on the upper right corner.](../../static/edit_file.png)
 
-3. Replace the existing information with your course title, your name, affiliation, and any other relevant details. Once you're finished, click "Commit changes...".
+3\. Replace the existing information with your course title, your name, affiliation, and any other relevant details. Once you're finished, click "Commit changes...".
 
 ![Image of the commit changes button.](../../static/commit_changes.png)
 
-4. For transparency and version control, provide a brief message describing the changes you made.
+4\. For transparency and version control, provide a brief message describing the changes you made.
 
 ![Image of the pop-up window in which one can write the commit message](../../static/commit_message.png)
 
@@ -57,19 +57,19 @@ As soon as you click on "Commit changes", your changes will be saved.
 
 ## 5. [Host your course website](../2_host/host_website)
 
-1. Open your repository in your browser and click on “Settings”.
+1\. Open your repository in your browser and click on “Settings”.
 
 ![Image of the tab where the word "Settings" is located on the far right](../../static/settings.png)
 
-2. On the left side, click on "Pages".
+2\. On the left side, click on "Pages".
 
 ![Image of the menu on the left side.](../../static/pages.png)
-
-3. Under Source, make sure that "Deploy from a branch" is selected.
+  
+3\. Under Source, make sure that "Deploy from a branch" is selected.
 
 ![Image of the deploy from branch setting.](../../static/deploy-from-branch.png) 
 
-4. Under Branch: Select branch “main”. The folder “/root” is automatically selected.
+4\. Under Branch: Select branch “main”. The folder “/root” is automatically selected.
 
 ![Image of the settings under Branch.](../../static/branch.png)
 
@@ -77,15 +77,15 @@ This should look like this now. Don't forget to click on save.
 
 ![Image of the settings under Branch.](../../static/save-branch.png)
 
-5. Click on "Action" and then "General" on the left side.
+5\. Click on "Action" and then "General" on the left side.
 
 ![Image of the menu on the left side.](../../static/actions-general.png)
 
-6. At the bottom of the page, under "Workflow permissions," select the option "Read and write permissions" and allow Github Actions to create and approve pull requests. Then, click on save.
+6\. At the bottom of the page, under "Workflow permissions," select the option "Read and write permissions" and allow Github Actions to create and approve pull requests. Then, click on save.
 
 ![Image of the workflow permissions.](../../static/workflow_permissions.png)
 
-7. Now we need to push a new commit to your repo, i.e. make a change to one file in order to start a workflow process in the background.
+7\. Now we need to push a new commit to your repo, i.e. make a change to one file in order to start a workflow process in the background.
 
 Let's do this together by adding some text to the README file, a file that entails some information on your course. 
 
@@ -107,7 +107,7 @@ Commit the changes and add some descriptions about your changes:
 
 Great! Now you changed one file and GitHub Pages starts running a workflow in the background. Let's check the worflows!
 
-8. Click on "Actions" at the top of your repository. You should see a workflow named "pages build and deployment" running. This is indicated by the yellow symbol. Don't worry that the first process failed (red symbol at the lowest workflow)! That's normal because we needed to change some workflow settings.
+8\. Click on "Actions" at the top of your repository. You should see a workflow named "pages build and deployment" running. This is indicated by the yellow symbol. Don't worry that the first process failed (red symbol at the lowest workflow)! That's normal because we needed to change some workflow settings.
 
 ![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/action-click.png)
 
@@ -115,17 +115,17 @@ Wait until the process is complete, indicated by a green checkmark:
 
 ![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/green-checkmark.png)
 
-9. Go back to "Settings", and then "Pages". Select "gh-pages" (instead of "main") as branch.
+9\. Go back to "Settings", and then "Pages". Select "gh-pages" (instead of "main") as branch.
     
 ![Image of the settings under Branch.](../../static/gh-pages.png)
 
-10. Finally, on the top of this Setting page, under "GitHub Pages", you should now find a field that looks like this:
+10\. Finally, on the top of this Setting page, under "GitHub Pages", you should now find a field that looks like this:
 
 ![Image of the final link that is presented under "GitHub Pages".](../../static/pages_link.png)
 
 This is the link to your first built website!  As you click on the link, you might wonder that you won't see any table of content and you only see the README file. We need to make one further commit!
 
-11. Push a last commit to your repository. You might want to copy your link and paste it into your README file.
+11\. Push a last commit to your repository. You might want to copy your link and paste it into your README file.
 
 ![Image of the README file with the link added.](../../static/edit-readme3.png)
 
