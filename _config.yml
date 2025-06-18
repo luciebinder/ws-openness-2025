@@ -64,7 +64,7 @@ html:
   comments:
     hypothesis: true
   extra_css: 
-    - static/custom.css
+    - _static/custom.css
 
 ##########################################################################################
 # Adding Sphinx Extensions
