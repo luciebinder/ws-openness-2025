@@ -65,7 +65,7 @@ As soon as you click on "Commit changes", your changes will be saved.
 
 ![Image of the menu on the left side.](../../static/pages.png)
 
-3. Under Source, select "Deploy from a branch".
+3. Under Source, make sure that "Deploy from a branch" is selected.
 
 ![Image of the deploy from branch setting.](../../static/deploy-from-branch.png) 
 
@@ -136,14 +136,14 @@ Congratulations! You should see the welcome page to your website. Now it's your 
 
 # What are the next steps?
 
-## 12. [Create content](../3_create/intro)
+## 6. [Create content](../3_create/intro)
 
 Open an existing Markdown (.md) or Jupyter notebook (.ipynb) file or create a new one and copy your interactive content and code. Make sure to give each file a meaningful name and add a title to each page.
 
-## 13. [Update Table of Contents](../3_create/setup-files)
+## 7. [Update Table of Contents](../3_create/setup-files)
 
 Once you've created files, open the `_toc.yml`. Add your newly created files in the sequence of your choice according to our template.
 
-## 14. [Update the README file](https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#the-readme)
+## 8. [Update the README file](https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#the-readme)
 
 Open the `README.md` file and update the information on your course.
