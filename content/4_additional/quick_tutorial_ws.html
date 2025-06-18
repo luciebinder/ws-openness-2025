@@ -438,9 +438,9 @@ document.write(`
 </ul>
 </li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#what-are-the-next-steps">What are the next steps?</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#create-content">6. <span class="xref myst">Create content</span></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#update-table-of-contents">7. <span class="xref myst">Update Table of Contents</span></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#update-the-readme-file">8. Update the README file</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#create-content">12. <span class="xref myst">Create content</span></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#update-table-of-contents">13. <span class="xref myst">Update Table of Contents</span></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#update-the-readme-file">14. Update the README file</a></li>
 </ul>
 </li>
 </ul>
@@ -512,18 +512,21 @@ document.write(`
 </ol>
 <p><img alt="Image of the tab where the word &quot;Settings&quot; is located on the far right" src="../../_images/settings.png" /></p>
 <ol class="arabic simple" start="2">
-<li><p>On the left side, click on “Pages” under “Code and automation”.</p></li>
+<li><p>On the left side, click on “Pages”.</p></li>
 </ol>
 <p><img alt="Image of the menu on the left side." src="../../_images/pages.png" /></p>
 <ol class="arabic simple" start="3">
 <li><p>Under Source, select “Deploy from a branch”.</p></li>
+</ol>
+<p><img alt="Image of the deploy from branch setting." src="../../_images/deploy-from-branch.png" /></p>
+<ol class="arabic simple" start="4">
 <li><p>Under Branch: Select branch “main”. The folder “/root” is automatically selected.</p></li>
 </ol>
 <p><img alt="Image of the settings under Branch." src="../../_images/branch.png" /></p>
 <p>This should look like this now. Don’t forget to click on save.</p>
 <p><img alt="Image of the settings under Branch." src="../../_images/save-branch.png" /></p>
 <ol class="arabic simple" start="5">
-<li><p>Click on “Action” and then “General” under “Code and automation”.</p></li>
+<li><p>Click on “Action” and then “General” on the left side.</p></li>
 </ol>
 <p><img alt="Image of the menu on the left side." src="../../_images/actions-general.png" /></p>
 <ol class="arabic simple" start="6">
@@ -531,9 +534,23 @@ document.write(`
 </ol>
 <p><img alt="Image of the workflow permissions." src="../../_images/workflow_permissions.png" /></p>
 <ol class="arabic simple" start="7">
-<li><p>Push a new commit to your repo, i.e. make a change to one file (e.g., add a line to your README.md).</p></li>
-<li><p>Click on “Actions” at the top of your repository. You should see a workflow named “pages build and deployment” running. Wait until the process is complete, indicated by a green checkmark.</p></li>
+<li><p>Now we need to push a new commit to your repo, i.e. make a change to one file in order to start a workflow process in the background.</p></li>
 </ol>
+<p>Let’s do this together by adding some text to the README file, a file that entails some information on your course.</p>
+<p>Click on “Code” to get back to your file structure. Then, click on the README file.</p>
+<p><img alt="Image of the upper options, selecting Code." src="../../_images/code.png" /></p>
+<p>Click on the “edit” symbol:</p>
+<p><img alt="Image of the edit button." src="../../_images/edit-readme.png" /></p>
+<p>Enter some text:</p>
+<p><img alt="Image of the README file that is edited." src="../../_images/edit-readme2.png" /></p>
+<p>Commit the changes and add some descriptions about your changes:</p>
+<p><img alt="Image of the commit process." src="../../_images/commit-readme.png" /></p>
+<p>Great! Now you changed one file and GitHub Pages starts running a workflow in the background. Let’s check the worflows!</p>
+<ol class="arabic simple" start="8">
+<li><p>Click on “Actions” at the top of your repository. You should see a workflow named “pages build and deployment” running. This is indicated by the yellow symbol. Don’t worry that the first process failed (red symbol at the lowest workflow)! That’s normal because we needed to change some workflow settings.</p></li>
+</ol>
+<p><img alt="Image of the workflow &quot;pages build and deployment&quot; with a green checkmark." src="../../_images/action-click.png" /></p>
+<p>Wait until the process is complete, indicated by a green checkmark:</p>
 <p><img alt="Image of the workflow &quot;pages build and deployment&quot; with a green checkmark." src="../../_images/green-checkmark.png" /></p>
 <ol class="arabic simple" start="9">
 <li><p>Go back to “Settings”, and then “Pages”. Select “gh-pages” (instead of “main”) as branch.</p></li>
@@ -543,22 +560,27 @@ document.write(`
 <li><p>Finally, on the top of this Setting page, under “GitHub Pages”, you should now find a field that looks like this:</p></li>
 </ol>
 <p><img alt="Image of the final link that is presented under &quot;GitHub Pages&quot;." src="../../_images/pages_link.png" /></p>
-<p>Click on the link to view your freshly built content website!</p>
-<p>Once you’re ready, make sure to make your repository public so that others can view your beautiful website.</p>
+<p>This is the link to your first built website!  As you click on the link, you might wonder that you won’t see any table of content and you only see the README file. We need to make one further commit!</p>
+<ol class="arabic simple" start="11">
+<li><p>Push a last commit to your repository. You might want to copy your link and paste it into your README file.</p></li>
+</ol>
+<p><img alt="Image of the README file with the link added." src="../../_images/edit-readme3.png" /></p>
+<p>As soon as you committed your changes and the workflow under “Actions” shows a green checkmark, you can refresh your website!</p>
+<p>Congratulations! You should see the welcome page to your website. Now it’s your turn to fill the pages.</p>
 </section>
 </section>
 <section class="tex2jax_ignore mathjax_ignore" id="what-are-the-next-steps">
 <h1>What are the next steps?<a class="headerlink" href="#what-are-the-next-steps" title="Permalink to this heading">#</a></h1>
 <section id="create-content">
-<h2>6. <a class="reference internal" href="../3_create/intro.html"><span class="doc std std-doc">Create content</span></a><a class="headerlink" href="#create-content" title="Permalink to this heading">#</a></h2>
+<h2>12. <a class="reference internal" href="../3_create/intro.html"><span class="doc std std-doc">Create content</span></a><a class="headerlink" href="#create-content" title="Permalink to this heading">#</a></h2>
 <p>Open an existing Markdown (.md) or Jupyter notebook (.ipynb) file or create a new one and copy your interactive content and code. Make sure to give each file a meaningful name and add a title to each page.</p>
 </section>
 <section id="update-table-of-contents">
-<h2>7. <a class="reference internal" href="../3_create/setup-files.html"><span class="doc std std-doc">Update Table of Contents</span></a><a class="headerlink" href="#update-table-of-contents" title="Permalink to this heading">#</a></h2>
+<h2>13. <a class="reference internal" href="../3_create/setup-files.html"><span class="doc std std-doc">Update Table of Contents</span></a><a class="headerlink" href="#update-table-of-contents" title="Permalink to this heading">#</a></h2>
 <p>Once you’ve created files, open the <code class="docutils literal notranslate"><span class="pre">_toc.yml</span></code>. Add your newly created files in the sequence of your choice according to our template.</p>
 </section>
 <section id="update-the-readme-file">
-<h2>8. <a class="reference external" href="https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#the-readme">Update the README file</a><a class="headerlink" href="#update-the-readme-file" title="Permalink to this heading">#</a></h2>
+<h2>14. <a class="reference external" href="https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#the-readme">Update the README file</a><a class="headerlink" href="#update-the-readme-file" title="Permalink to this heading">#</a></h2>
 <p>Open the <code class="docutils literal notranslate"><span class="pre">README.md</span></code> file and update the information on your course.</p>
 </section>
 </section>
@@ -635,9 +657,9 @@ document.write(`
 </ul>
 </li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#what-are-the-next-steps">What are the next steps?</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#create-content">6. <span class="xref myst">Create content</span></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#update-table-of-contents">7. <span class="xref myst">Update Table of Contents</span></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#update-the-readme-file">8. Update the README file</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#create-content">12. <span class="xref myst">Create content</span></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#update-table-of-contents">13. <span class="xref myst">Update Table of Contents</span></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#update-the-readme-file">14. Update the README file</a></li>
 </ul>
 </li>
 </ul>
