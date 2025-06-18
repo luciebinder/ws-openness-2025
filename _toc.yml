@@ -10,8 +10,8 @@ parts:
 - caption: 1. Group session
   chapters:
   - file: general-information/why_oer
-  - file: general-information/why_jb
   - file: general-information/framework
+  - file: general-information/why_jb
 - caption: 2. Independent work
   chapters:
   - file: general-information/assignment  
