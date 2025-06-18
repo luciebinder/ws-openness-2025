@@ -12,30 +12,21 @@ If you haven't already set up your GitHub account, please go to the [respective 
 Let's copy our ready-to-go course template! It’s the quickest way to get started — simply customize and add your own pages to fit your content, without worrying about setting up a project from scratch. 
 
 1. Go to the GitHub page of our [course template](https://github.com/luciebinder/course-template-minimal) and click on "fork".
+2. 
+![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)
 
-<kbd>![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)</kbd>
+3. Give your course a name and a description, check the box "Copy the main branch only," and click the "Create fork" button.
 
-```{image} ../../static/fork.png
-:alt: depicting position a look of the fork button on a GitHub repository
-:class: 
-:width: 200px
-:align: center
-```
-
-<div style="border: 2px solid black;">![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)</div>
-
-2. Give your course a name and a description, check the box "Copy the main branch only," and click the "Create fork" button.
-
-<kbd>![depicting position a look of the fork button on a GitHub repository](../../static/create_fork.png)</kbd>
+![depicting position a look of the fork button on a GitHub repository](../../static/create_fork.png)
 
 ## 3. [Getting familiar with the course template](../1_github/template)
 Let's take a look into the structure of the course template:
 
-<kbd>![depicting the contents of the course template repository on GitHub](../../static/folder-structure_minimal-template.png)</kbd>
+![depicting the contents of the course template repository on GitHub](../../static/folder-structure_minimal-template.png)
 
 Some files can be ignored, as they contain technical information for hosting the website. The majority of what you'll be modifying is located in the "lecture" content folder, which looks like this:
 
-<kbd>![depicting the contents of the course template repository on GitHub](../../static/lecture-folder-structure.png)</kbd>
+![depicting the contents of the course template repository on GitHub](../../static/lecture-folder-structure.png)
 
 In this folder, you can add your content by editing or adding Markdown files.
 
@@ -45,19 +36,19 @@ Let's edit your first file, the `_config.yml` file! Here, you'll update the cour
 
 1. To edit a file, click on the specific file (here: `_config.yml`). 
 
-<kbd>![Image of the file structure.](../../static/click_on_file.png)</kbd>
+![Image of the file structure.](../../static/click_on_file.png)
 
 2. Click the edit button, represented by a small pencil in the upper right corner. 
 
-<kbd>![Image of the edit button on the upper right corner.](../../static/edit_file.png)</kbd>
+![Image of the edit button on the upper right corner.](../../static/edit_file.png)
 
 3. Replace the existing information with your course title, your name, affiliation, and any other relevant details. Once you're finished, click "Commit changes...".
 
-<kbd>![Image of the commit changes button.](../../static/commit_changes.png)</kbd>
+![Image of the commit changes button.](../../static/commit_changes.png)
 
 4. For transparency and version control, provide a brief message describing the changes you made.
 
-<kbd>![Image of the pop-up window in which one can write the commit message](../../static/commit_message.png)</kbd>
+![Image of the pop-up window in which one can write the commit message](../../static/commit_message.png)
 
 As soon as you click on "Commit changes", your changes will be saved.
 
@@ -68,43 +59,43 @@ As soon as you click on "Commit changes", your changes will be saved.
 
 1. Open your repository in your browser and click on “Settings”.
 
-<kbd>![Image of the tab where the word "Settings" is located on the far right](../../static/settings.png)</kbd>
+![Image of the tab where the word "Settings" is located on the far right](../../static/settings.png)
 
 2. On the left side, click on "Pages" under "Code and automation".
 
-<kbd>![Image of the menu on the left side.](../../static/pages.png)</kbd>
+![Image of the menu on the left side.](../../static/pages.png)
 
 3. Under Source, select "Deploy from a branch".
 
 4. Under Branch: Select branch “main”. The folder “/root” is automatically selected.
 
-<kbd>![Image of the settings under Branch.](../../static/branch.png)</kbd>
+![Image of the settings under Branch.](../../static/branch.png)
 
 This should look like this now. Don't forget to click on save.
 
-<kbd>![Image of the settings under Branch.](../../static/save-branch.png)</kbd>
+![Image of the settings under Branch.](../../static/save-branch.png)
 
 5. Click on "Action" and then "General" under "Code and automation".
 
-<kbd>![Image of the menu on the left side.](../../static/actions-general.png)</kbd>
+![Image of the menu on the left side.](../../static/actions-general.png)
 
 6. At the bottom of the page, under "Workflow permissions," select the option "Read and write permissions" and allow Github Actions to create and approve pull requests. Then, click on save.
 
-<kbd>![Image of the workflow permissions.](../../static/workflow_permissions.png)</kbd>
+![Image of the workflow permissions.](../../static/workflow_permissions.png)
 
 7. Push a new commit to your repo, i.e. make a change to one file (e.g., add a line to your README.md).
 
 8. Click on "Actions" at the top of your repository. You should see a workflow named "pages build and deployment" running. Wait until the process is complete, indicated by a green checkmark.
    
-<kbd>![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/green-checkmark.png)</kbd>
+![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/green-checkmark.png)
 
 9. Go back to "Settings", and then "Pages". Select "gh-pages" (instead of "main") as branch.
     
-<kbd>![Image of the settings under Branch.](../../static/gh-pages.png)</kbd>
+![Image of the settings under Branch.](../../static/gh-pages.png)
 
 10. Finally, on the top of this Setting page, under "GitHub Pages", you should now find a field that looks like this:
 
-<kbd>![Image of the final link that is presented under "GitHub Pages".](../../static/pages_link.png)</kbd>
+![Image of the final link that is presented under "GitHub Pages".](../../static/pages_link.png)
 
 Click on the link to view your freshly built content website! 
 
