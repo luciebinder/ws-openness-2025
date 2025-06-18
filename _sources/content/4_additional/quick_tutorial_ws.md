@@ -13,7 +13,7 @@ Let's copy our ready-to-go course template! It’s the quickest way to get start
 
 1. Go to the GitHub page of our [course template](https://github.com/luciebinder/course-template-minimal) and click on "fork".
 
-<img src="../../static/fork.png" alt="depicting position a look of the fork button on a GitHub repository" class="bordered-image">
+<img src="../../static/fork.png" alt="depicting position a look of the fork button on a GitHub repository" class="bordered-image" width="600">
 
 ![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)
 
