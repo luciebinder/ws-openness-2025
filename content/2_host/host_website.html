@@ -433,6 +433,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#setting-up-github-pages">Setting up GitHub Pages</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#setting-up-your-website">Setting Up Your Website</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#checking-your-workflow">Checking Your Workflow</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#one-last-adjustment">One Last Adjustment</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#getting-your-link">Getting Your Link</a></li>
 </ul>
 </li>
@@ -475,13 +476,15 @@ document.write(`
 </ol>
 <p><img alt="Image of the menu on the left side." src="../../_images/pages.png" /></p>
 <ol class="arabic simple" start="3">
-<li><p>Under Source, select “Deploy from a branch”.</p></li>
+<li><p>Under Source, make sure that “Deploy from a branch” is selected.</p></li>
 </ol>
-<p><img alt="Image of the &quot;Deploy from a branch&quot; option under Source section, located under the Build and Deployment section" src="../../_images/deploy.png" /></p>
+<p><img alt="Image of the deploy from branch setting." src="../../_images/deploy-from-branch.png" /></p>
 <ol class="arabic simple" start="4">
-<li><p>Under Branch: Select branch “main” and select the “/root” folder and save.</p></li>
+<li><p>Under Branch: Select branch “main”. The folder “/root” is automatically selected.</p></li>
 </ol>
 <p><img alt="Image of the settings under Branch." src="../../_images/branch.png" /></p>
+<p>This should look like this now. Don’t forget to click on save.</p>
+<p><img alt="Image of the settings under Branch." src="../../_images/save-branch.png" /></p>
 <ol class="arabic simple" start="5">
 <li><p>Click on “Action” and then “General” under “Code and automation”.</p></li>
 </ol>
@@ -491,22 +494,39 @@ document.write(`
 </ol>
 <p><img alt="Image of the workflow permissions." src="../../_images/workflow_permissions.png" /></p>
 <ol class="arabic simple" start="7">
-<li><p>Push a new commit to your repo, i.e. make a change to one file (e.g., add a line to your <code class="docutils literal notranslate"><span class="pre">README.md</span></code>).</p></li>
+<li><p>Push a new commit to your repo, i.e. make a change to one file.</p></li>
 </ol>
+<p>Let’s do this together by adding some text to the <code class="docutils literal notranslate"><span class="pre">README</span></code> file, a file that entails some main information on your course.</p>
+<p>Click on “Code” to get back to your file structure. Then, click on the <code class="docutils literal notranslate"><span class="pre">README</span></code> file.</p>
+<p><img alt="Image of the upper options, selecting Code." src="../../_images/code.png" /></p>
+<p>Click on the “edit” symbol:</p>
+<p><img alt="Image of the edit button." src="../../_images/edit-readme.png" /></p>
+<p>Enter some text and click on “commit changes” when you’re done.</p>
+<p><img alt="Image of the README file that is edited." src="../../_images/edit-readme2.png" /></p>
+<p>Commit the changes and add some descriptions about your changes:</p>
+<p><img alt="Image of the commit process." src="../../_images/commit-readme.png" /></p>
+<p>Great! Now you changed one file and GitHub Pages starts running a workflow in the background. Let’s check the worflows!</p>
 </section>
 <section id="checking-your-workflow">
 <h3>Checking Your Workflow<a class="headerlink" href="#checking-your-workflow" title="Permalink to this heading">#</a></h3>
-<p>Next, click on “Actions” at the top of your repository. You should see a workflow named “pages build and deployment” running. By clicking on this workflow, you’ll be able to view a summary of the process. In the image below, the process is complete, as shown by the green checkmark:</p>
+<p>Next, click on “Actions” at the top of your repository.</p>
+<p><img alt="Image of the workflow &quot;pages build and deployment&quot; with a green checkmark." src="../../_images/action-click.png" /></p>
+<p>You should see a workflow named “pages build and deployment” running. By clicking on this workflow, you’ll be able to view a summary of the process. In the image below, the process is complete, as shown by the green checkmark:</p>
 <p><img alt="Image of a completed workflow with a green checkmark." src="../../_images/action_deployment.png" /></p>
+</section>
+<section id="one-last-adjustment">
+<h3>One Last Adjustment<a class="headerlink" href="#one-last-adjustment" title="Permalink to this heading">#</a></h3>
+<p>Once that process has been completed head back over to “Settings” -&gt; “Pages”. Select “gh-pages” (instead of “main”) as branch.</p>
+<p><img alt="Image of the settings under Branch." src="../../_images/gh-pages.png" /></p>
+<p>To activate this change, you need to make one final commit to your repository. Just add another line or text to the <code class="docutils literal notranslate"><span class="pre">README</span></code> file, as you just did in Step 7 (see above).</p>
+<p>As soon as you committed your changes and the workflow under “Actions” shows a green checkmark, you can refresh your website!</p>
 </section>
 <section id="getting-your-link">
 <h3>Getting Your Link<a class="headerlink" href="#getting-your-link" title="Permalink to this heading">#</a></h3>
-<p>Once that process has been completed head back over to “Settings” -&gt; “Pages”. At the top, under “GitHub Pages”, you should now find a field that looks like this:</p>
+<p>As soon as you committed your changes and the workflow under “Actions” shows a green checkmark, you can go back to “Settings” -&gt; “Pages”. Under “GitHub Pages”, you should now find a field that looks like this:</p>
 <p><img alt="Image of the final link that is presented under &quot;GitHub Pages&quot;." src="../../_images/pages_link.png" /></p>
 <p>Click on the link to view your freshly built content website!</p>
-<p><strong>Important:</strong> There’s one final setting you need to adjust: On the same page, where you found the link, select “gh-pages” (instead of “main”) as the branch and save your changes.
-<img alt="Image of the settings under Branch." src="../../_images/gh-pages.png" /></p>
-<p>That’s it! Congratulations to your first course website!</p>
+<p><strong>That’s it! Congratulations to your first course website!</strong></p>
 </section>
 </section>
 <section id="next-section">
@@ -584,6 +604,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#setting-up-github-pages">Setting up GitHub Pages</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#setting-up-your-website">Setting Up Your Website</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#checking-your-workflow">Checking Your Workflow</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#one-last-adjustment">One Last Adjustment</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#getting-your-link">Getting Your Link</a></li>
 </ul>
 </li>
