@@ -6,7 +6,7 @@ Now that you've forked the course template and created your own course repo, let
 
 The course template is structured as follows:
 
-![depicting the contents of the course template repository on GitHub](../../static/repo.png)
+![depicting the contents of the course template repository on GitHub](../../static/folder-structure_minimal-template.png)
 
 Where:
 | File/Folder | Description | 
@@ -19,7 +19,7 @@ Where:
 
 Now, most the things that you'll be adapting are contained in the content folder "lecture", which looks like this:
 
-![depicting the contents of the course template repository on GitHub](../../static/lecture_folder.png)
+![depicting the contents of the course template repository on GitHub](../../static/lecture-folder-structure.png)
 
 Where:
 | File/Folder | Description | 
