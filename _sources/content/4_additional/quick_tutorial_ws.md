@@ -97,7 +97,7 @@ Click on the "edit" symbol:
 
 ![Image of the edit button.](../../static/edit-readme.png)
 
-Enter some text:
+Enter some text and click on "commit changes" when you're done.
 
 ![Image of the README file that is edited.](../../static/edit-readme2.png)
 
