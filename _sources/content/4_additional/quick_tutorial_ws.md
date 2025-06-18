@@ -15,6 +15,13 @@ Let's copy our ready-to-go course template! It’s the quickest way to get start
 
 <kbd>![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)</kbd>
 
+```{image} ../../static/fork.png
+:alt: depicting position a look of the fork button on a GitHub repository
+:class: 
+:width: 200px
+:align: center
+```
+
 <div style="border: 2px solid black;">![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)</div>
 
 2. Give your course a name and a description, check the box "Copy the main branch only," and click the "Create fork" button.
