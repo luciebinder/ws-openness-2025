@@ -61,11 +61,13 @@ As soon as you click on "Commit changes", your changes will be saved.
 
 ![Image of the tab where the word "Settings" is located on the far right](../../static/settings.png)
 
-2. On the left side, click on "Pages" under "Code and automation".
+2. On the left side, click on "Pages".
 
 ![Image of the menu on the left side.](../../static/pages.png)
 
 3. Under Source, select "Deploy from a branch".
+
+![Image of the deploy from branch setting.](../../static/deploy-from-branch.png) 
 
 4. Under Branch: Select branch “main”. The folder “/root” is automatically selected.
 
@@ -75,7 +77,7 @@ This should look like this now. Don't forget to click on save.
 
 ![Image of the settings under Branch.](../../static/save-branch.png)
 
-5. Click on "Action" and then "General" under "Code and automation".
+5. Click on "Action" and then "General" on the left side.
 
 ![Image of the menu on the left side.](../../static/actions-general.png)
 
@@ -83,10 +85,34 @@ This should look like this now. Don't forget to click on save.
 
 ![Image of the workflow permissions.](../../static/workflow_permissions.png)
 
-7. Push a new commit to your repo, i.e. make a change to one file (e.g., add a line to your README.md).
+7. Now we need to push a new commit to your repo, i.e. make a change to one file in order to start a workflow process in the background.
 
-8. Click on "Actions" at the top of your repository. You should see a workflow named "pages build and deployment" running. Wait until the process is complete, indicated by a green checkmark.
-   
+Let's do this together by adding some text to the README file, a file that entails some information on your course. 
+
+Click on "Code" to get back to your file structure. Then, click on the README file. 
+
+![Image of the upper options, selecting Code.](../../static/code.png)
+
+Click on the "edit" symbol: 
+
+![Image of the edit button.](../../static/edit-readme.png)
+
+Enter some text:
+
+![Image of the README file that is edited.](../../static/edit-readme2.png)
+
+Commit the changes and add some descriptions about your changes:
+
+![Image of the commit process.](../../static/commit-readme.png)
+
+Great! Now you changed one file and GitHub Pages starts running a workflow in the background. Let's check the worflows!
+
+8. Click on "Actions" at the top of your repository. You should see a workflow named "pages build and deployment" running. This is indicated by the yellow symbol. Don't worry that the first process failed (red symbol at the lowest workflow)! That's normal because we needed to change some workflow settings.
+
+![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/action-click.png)
+
+Wait until the process is complete, indicated by a green checkmark:
+
 ![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/green-checkmark.png)
 
 9. Go back to "Settings", and then "Pages". Select "gh-pages" (instead of "main") as branch.
@@ -97,21 +123,27 @@ This should look like this now. Don't forget to click on save.
 
 ![Image of the final link that is presented under "GitHub Pages".](../../static/pages_link.png)
 
-Click on the link to view your freshly built content website! 
+This is the link to your first built website!  As you click on the link, you might wonder that you won't see any table of content and you only see the README file. We need to make one further commit!
 
+11. Push a last commit to your repository. You might want to copy your link and paste it into your README file.
 
-Once you're ready, make sure to make your repository public so that others can view your beautiful website.
+![Image of the README file with the link added.](../../static/edit-readme3.png)
+
+As soon as you committed your changes and the workflow under "Actions" shows a green checkmark, you can refresh your website! 
+
+Congratulations! You should see the welcome page to your website. Now it's your turn to fill the pages.
+
 
 # What are the next steps?
 
-## 6. [Create content](../3_create/intro)
+## 12. [Create content](../3_create/intro)
 
 Open an existing Markdown (.md) or Jupyter notebook (.ipynb) file or create a new one and copy your interactive content and code. Make sure to give each file a meaningful name and add a title to each page.
 
-## 7. [Update Table of Contents](../3_create/setup-files)
+## 13. [Update Table of Contents](../3_create/setup-files)
 
 Once you've created files, open the `_toc.yml`. Add your newly created files in the sequence of your choice according to our template.
 
-## 8. [Update the README file](https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#the-readme)
+## 14. [Update the README file](https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#the-readme)
 
 Open the `README.md` file and update the information on your course.
