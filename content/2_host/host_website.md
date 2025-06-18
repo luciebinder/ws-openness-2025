@@ -25,13 +25,17 @@ Please take a closer look at the `.github/workflows` folder, where you'll find a
 
 ![Image of the menu on the left side.](../../static/pages.png)
 
-3. Under Source, select "Deploy from a branch".
+3. Under Source, make sure that "Deploy from a branch" is selected.
 
-![Image of the "Deploy from a branch" option under Source section, located under the Build and Deployment section](../../static/deploy.png)
+![Image of the deploy from branch setting.](../../static/deploy-from-branch.png) 
 
-4. Under Branch: Select branch "main" and select the "/root" folder and save.
+4. Under Branch: Select branch “main”. The folder “/root” is automatically selected.
 
 ![Image of the settings under Branch.](../../static/branch.png)
+
+This should look like this now. Don't forget to click on save.
+
+![Image of the settings under Branch.](../../static/save-branch.png)
 
 5. Click on "Action" and then "General" under "Code and automation".
 
@@ -41,26 +45,57 @@ Please take a closer look at the `.github/workflows` folder, where you'll find a
 
 ![Image of the workflow permissions.](../../static/workflow_permissions.png)
 
-7. Push a new commit to your repo, i.e. make a change to one file (e.g., add a line to your `README.md`).
+7. Push a new commit to your repo, i.e. make a change to one file.
+
+Let's do this together by adding some text to the `README` file, a file that entails some main information on your course. 
+
+Click on "Code" to get back to your file structure. Then, click on the `README` file. 
+
+![Image of the upper options, selecting Code.](../../static/code.png)
+
+Click on the "edit" symbol: 
+
+![Image of the edit button.](../../static/edit-readme.png)
+
+Enter some text and click on "commit changes" when you're done.
+
+![Image of the README file that is edited.](../../static/edit-readme2.png)
+
+Commit the changes and add some descriptions about your changes:
+
+![Image of the commit process.](../../static/commit-readme.png)
+
+Great! Now you changed one file and GitHub Pages starts running a workflow in the background. Let's check the worflows!
 
 ### Checking Your Workflow
 
-Next, click on "Actions" at the top of your repository. You should see a workflow named "pages build and deployment" running. By clicking on this workflow, you'll be able to view a summary of the process. In the image below, the process is complete, as shown by the green checkmark:
+Next, click on "Actions" at the top of your repository. 
+
+![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/action-click.png)
+
+You should see a workflow named "pages build and deployment" running. By clicking on this workflow, you'll be able to view a summary of the process. In the image below, the process is complete, as shown by the green checkmark:
 
 ![Image of a completed workflow with a green checkmark.](../../static/action_deployment.png)
 
+### One Last Adjustment
+
+Once that process has been completed head back over to "Settings" -> "Pages". Select "gh-pages" (instead of "main") as branch.
+    
+![Image of the settings under Branch.](../../static/gh-pages.png)
+
+To activate this change, you need to make one final commit to your repository. Just add another line or text to the `README` file, as you just did in Step 7 (see above).
+
+As soon as you committed your changes and the workflow under "Actions" shows a green checkmark, you can refresh your website! 
+
 ### Getting Your Link
 
-Once that process has been completed head back over to "Settings" -> "Pages". At the top, under "GitHub Pages", you should now find a field that looks like this:
+As soon as you committed your changes and the workflow under "Actions" shows a green checkmark, you can go back to "Settings" -> "Pages". Under "GitHub Pages", you should now find a field that looks like this:
 
 ![Image of the final link that is presented under "GitHub Pages".](../../static/pages_link.png)
 
 Click on the link to view your freshly built content website! 
 
-**Important:** There's one final setting you need to adjust: On the same page, where you found the link, select "gh-pages" (instead of "main") as the branch and save your changes.
-![Image of the settings under Branch.](../../static/gh-pages.png)
-
-That's it! Congratulations to your first course website! 
+**That's it! Congratulations to your first course website!**
 
 ## Next Section:
 In the next section, you will learn how to identify failed workflows and how to troubleshoot common errors.
