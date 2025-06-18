@@ -8,11 +8,11 @@ After that, you'll also learn how to start a brand-new project on GitHub. While 
 
 To create your own course repository, you'll need to "fork" (i.e., copy) the course template repository to your account. Simply go to the [course template repo](https://github.com/luciebinder/course-template-minimal), ensure you're logged in, and click "Fork". 
 
-![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)
+![depicting position a look of the fork button on a GitHub repository](../../static/fork-button.png)
 
 You'll be asked to create a new fork; simply add a new repository name, provide a short description, or keep the existing one, check the box "Copy the main branch only," and click the "Create fork" button.
 
-![depicting position a look of the fork button on a GitHub repository](../../static/create_fork.png)
+![depicting position a look of the fork button on a GitHub repository](../../static/create-fork.png)
 
 ```{note}
 Alternatively, instead of forking, you can click on "Use this template", which achieves the same result.
