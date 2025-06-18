@@ -108,7 +108,7 @@ Commit the changes and add some descriptions about your changes:
 
 Great! Now you changed one file and GitHub Pages starts running a workflow in the background. Let's check the worflows!
 
-8\. Click on "Actions" at the top of your repository. You should see a workflow named "pages build and deployment" running. This is indicated by the yellow symbol. Don't worry that the first process failed (red symbol at the lowest workflow)! That's normal because we needed to change some workflow settings.
+8\. Click on "Actions" at the top of your repository. You should see a workflow called "pages build and deployment" running (indicated by the yellow circle). Don't worry that the first process(es) failed (indicated by the red symbol)! That’s expected, since we had to adjust the workflow settings first.
 
 ![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/action-click.png)
 
