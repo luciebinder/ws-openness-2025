@@ -54,10 +54,11 @@ As soon as you click on "Commit changes", your changes will be saved.
 
 **Awesome! You’ve just added your first personal touch!**
 
+The next step is to adjust a few settings so that GitHub Pages can host your website and automatically update it whenever you make changes.
 
 ## 5. [Host your course website](../2_host/host_website)
 
-1\. Open your repository in your browser and click on “Settings”.
+1\. At the top of your repository, click on “Settings”.
 
 ![Image of the tab where the word "Settings" is located on the far right](../../static/settings.png)
 
@@ -85,11 +86,11 @@ This should look like this now. Don't forget to click on save.
 
 ![Image of the workflow permissions.](../../static/workflow_permissions.png)
 
-7\. Now we need to push a new commit to your repo, i.e. make a change to one file in order to start a workflow process in the background.
+7\. Now we need to push a new commit to your repo, i.e. make a change to one file in order to start the workflow process in the background.
 
-Let's do this together by adding some text to the README file, a file that entails some information on your course. 
+Let's do this together by adding some text to the `README` file, a file that entails some main information on your course. 
 
-Click on "Code" to get back to your file structure. Then, click on the README file. 
+Click on "Code" to get back to your file structure. Then, click on the `README` file. 
 
 ![Image of the upper options, selecting Code.](../../static/code.png)
 
@@ -119,13 +120,13 @@ Wait until the process is complete, indicated by a green checkmark:
     
 ![Image of the settings under Branch.](../../static/gh-pages.png)
 
-10\. Finally, on the top of this Setting page, under "GitHub Pages", you should now find a field that looks like this:
+10\. Finally, on the top of this page, under "GitHub Pages", you should now find a field that looks like this:
 
 ![Image of the final link that is presented under "GitHub Pages".](../../static/pages_link.png)
 
-This is the link to your first built website!  As you click on the link, you might wonder that you won't see any table of content and you only see the README file. We need to make one further commit!
+This is the link to your newly built website! When you click the link, you might notice that there's no table of contents yet and only the README file is displayed. Don’t worry — we just need to make one more commit!
 
-11\. Push a last commit to your repository. You might want to copy your link and paste it into your README file.
+11\. Push a last commit to your repository. You might want to copy your link and paste it into your `README` file.
 
 ![Image of the README file with the link added.](../../static/edit-readme3.png)
 
