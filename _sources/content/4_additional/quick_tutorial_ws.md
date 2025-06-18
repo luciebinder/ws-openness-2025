@@ -12,10 +12,12 @@ If you haven't already set up your GitHub account, please go to the [respective 
 Let's copy our ready-to-go course template! It’s the quickest way to get started — simply customize and add your own pages to fit your content, without worrying about setting up a project from scratch. 
 
 1. Go to the GitHub page of our [course template](https://github.com/luciebinder/course-template-minimal) and click on "fork".
-2. 
+
+<img src="../../static/fork.png" alt="depicting position a look of the fork button on a GitHub repository" class="bordered-image">
+
 ![depicting position a look of the fork button on a GitHub repository](../../static/fork.png)
 
-3. Give your course a name and a description, check the box "Copy the main branch only," and click the "Create fork" button.
+2. Give your course a name and a description, check the box "Copy the main branch only," and click the "Create fork" button.
 
 ![depicting position a look of the fork button on a GitHub repository](../../static/create_fork.png)
 
