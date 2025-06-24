@@ -1,31 +1,36 @@
-# Wrapping Up: Key Takeaways and Next Steps 
+# Wrap Up and Feedback
 
-Congratulations! You’ve reached the end of our course, **Creating interactive content with Jupyter Books**.
+**Congratulations** on developing your own open course concept and creating the first version of your course website!
 
-Throughout this course, we focused on achieving the following key goals:
-* Create content with markdown
-* Create your own online course or website using Jupyter Book
-* Host courses using GitHub Pages
+During this small group session, we worked towards four key goals:
 
-Therefore, in the GitHub chapter, you learned the benefits of using GitHub, how to set up your GitHub account, and how to create your first online repository using our course template.
+- Understanding the value of Open Educational Resources (OERs). 
+Recognize how openness can enhance teaching, learning, and research.
+- Designing a course concept that addresses didactic challenges  
+Think beyond what you teach — focus on how and why to support effective learning.
+- Exploring Jupyter Book and GitHub Pages  
+Learn how these tools can be combined to create accessible, interactive, and citable learning materials.
+- Building the foundation of your own course website  
+Take the first concrete steps toward an open, digital course offering.
 
-Next, you learned how to host your course website using GitHub Pages and how to troubleshoot common error warnings.
+````{card} 
+**Let’s take some time to reflect on your experience and share insights:**
+^^^
+1. What worked well for you during the process?
+2. What challenges or obstacles did you encounter?
+3. Did the course concept you drafted help guide your website building? How?
+4. What features or elements are you excited to add next?
+5. What support or resources would help you moving forward?
+````
 
-Finally, you explored the types of files you can integrate into your Jupyter Book and how to create them. You also learned the basics of formatting with Markdown, how to embed various media types, and how to include citations and feedback questions. Last but not least, you learned how to structure your course website with the table of contents file (_toc.yml).
+## Next Steps
+- Refine your course concept based on today’s work and feedback
+- Continue building and improving your course website at your own pace
 
-We wish you the best of luck as you create your first course website and begin populating the pages. If you ever need advice or consultation, please don’t hesitate to reach out to us. Our contact information can be found here: {doc}../../intro/overview.
+To support you in this process, feel free to use the in-depth tutorial linked in the sidebar.
 
-For up-to-date information and more details, check out the official [Jupyter Book documentation](https://jupyterbook.org/en/stable/intro.html#).
+As this workshop website will not be updated, we also recommend our online course on [Creating Interactive Content with Jupyter Books](https://diler-digitell.github.io/tutorial_jupyter_books/general-information/index.html) for up-to-date guidance and additional resources.
 
-Also, if you're eager to dive deeper, we’ve gathered some additional content for you: (in development – stay tuned!)
+If you ever need advice or consultation, please don’t hesitate to reach out to us. My contact information can be found here: {doc}index.
 
-- **[Introduction to Git](../4_additional/git/intro)**
-Learn what Git is and how to use it for local editing and version control.
-- **[Introduction to Jupyter Notebooks](../4_additional/jupyter_notebooks)**
-Learn the fundamentals of Jupyter Notebooks and how to use them for interactive content.
-- **[Introduction to Google Colab](../4_additional/colab)**
-Discover how to integrate automatically gradable coding assignments into your course.
-- **[Resources for Your Course](../../resources/info)**
-Explore resources to help create a safe, inclusive, and productive course environment. 
-- **[Course Examples](../../resources/demo)**
-Check out courses already created and maintained by the DiLER project.
+Thank you and good luck with everything! 
