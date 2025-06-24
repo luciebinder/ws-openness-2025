@@ -112,5 +112,5 @@ Take about 10 minutes for this activity. We will then discuss your impressions t
 ````
 
 ```{note}
-I know — some of these examples look really polished and complex! But don’t worry. On the next page, you’ll find information about our framework and the easy-to-adapt template that will make creating your own course website really simple.
+I know, some of these examples look really polished and complex! But don’t worry. On the next page, you’ll find information about our framework and the easy-to-adapt template that will make creating your own course website really simple.
 ```
