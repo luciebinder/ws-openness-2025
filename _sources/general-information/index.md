@@ -7,8 +7,6 @@ My name is Lucie Binder, I'm a phd student at Goethe University and I'm also par
 
 This website will guide you through our group session. We will start with an introduction into the framework that we use to create beautiful, easy-to-deploy, and interactive content quickly. Following, we will discuss the opportunities and benefits of using this framework for open, accessible, and inclusive teaching. Then, you will have some time for yourself to create your own course concept, that you will then start to implement with help of a short and easy-to-follow tutorial. 
 
-Simply follow the outline discussed in the [Course Overview & Procedure section](overview) to learn what this course is about and how to navigate the materials.
-
 # What is the structure of this group session?
 
 Our group session is structured as follows: 
