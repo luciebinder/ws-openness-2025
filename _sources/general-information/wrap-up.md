@@ -2,9 +2,9 @@
 
 **Congratulations** on developing your own open course concept and creating the first version of your course website!
 
-During this small group session, we worked towards four key goals:
+During this small group session, we worked towards **four key goals**:
 
-- Understanding the value of Open Educational Resources (OERs). 
+- Understanding the value of Open Educational Resources (OERs).  
 Recognize how openness can enhance teaching, learning, and research.
 - Designing a course concept that addresses didactic challenges  
 Think beyond what you teach — focus on how and why to support effective learning.
