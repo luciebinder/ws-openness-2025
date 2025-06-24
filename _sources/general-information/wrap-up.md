@@ -1,4 +1,4 @@
-# Wrap-up and Feedback
+# Wrap-Up and Feedback
 
 **Congratulations** on developing your own open course concept and creating the first version of your course website!
 
