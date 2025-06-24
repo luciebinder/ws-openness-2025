@@ -20,7 +20,7 @@ Our group session is structured as follows:
 - {doc}`../content/4_additional/quick_tutorial_ws`
  
 **3. Wrap-Up**. 
-- - {doc}`wrap-up`
+- {doc}`wrap-up`
 
 You will also find an in-depth tutorial on how to create your course website, which provides more detail than the quick setup guide, along with additional resources for you to explore.
 
