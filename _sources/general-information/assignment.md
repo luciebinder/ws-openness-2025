@@ -1,4 +1,4 @@
-# Now it's your turn!
+# Now It's Your Turn!
 
 ## First task: Develop your course concept
 Take the next 50 minutes to sketch a first concept for your own course. Focus especially on didactic aspects — not just _what_ you want to teach, but _how_ and _why_. The following guiding questions can help:
