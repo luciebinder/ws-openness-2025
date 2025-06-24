@@ -1,4 +1,4 @@
-# Our framework
+# Our Framework
 
 ````{card} 
 **Before we start:**
