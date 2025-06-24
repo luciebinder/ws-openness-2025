@@ -1,4 +1,4 @@
-# Course Overview & Procedure
+# Course overview & Procedure
 
 Now that you've got an idea of what this website is about let's discuss how we'll hopefully get your course up and running. This section will clarify this course's structure and general setup.
 
@@ -8,39 +8,29 @@ This tutorial is further paired with a template course that you can find [here](
 
 ## Objectives 📍
 
-**At the end of the course, you will be able to:**
-* Get to know how Jupyter Books work.
-* See the benefits for teaching and research.
-* Build your own online course or website with Jupyter Book.
-* Create and format content using Markdown.
-* Use GitHub Pages to host and share your materials.
+**In this group session, you will**
+- Recognize how openness can enhance teaching, learning, and research.
+- Think beyond what you teach — focus on how and why to support effective learning.
+- Learn how these tools can be combined to create accessible, interactive, and citable learning materials.
+- Take the first concrete steps toward an open, digital course offering.
 
-## Structure of the Course
+## Structure of the course
 
 **The course is structured as follows:**
 
-1) **[Why Jupyter Books? An Introduction](whyjb)**
-Explore the advantages of free and accessible online courses and how Jupyter Books can enhance digital teaching.
-2) **[Getting Started with GitHub](../content/1_github/intro)**
-Learn what GitHub is, how to create an account, and how to start a new project.
-3) **[Hosting Your Course Website](../content/2_host/host_website)**
-Discover how to publish and maintain your own course website using our course template.
-4) **[Creating Engaging Content](../content/3_create/intro)**
-Master the basics of creating and editing files, formatting with Markdown, and embedding media.
+1. Group session
+    [Introduction](why_oer)
+    [Didactic aspects](didactic)
+    [Our framework](framework)
+    [Why use Jupyter Book?](why_jb)
 
-**Additional Chapters:** (in development – stay tuned!)
-- **[Quick Setup Guide](../content/4_additional/quick_tutorial)**
-Follow a step-by-step guide to quickly set up and deploy your course using Jupyter Book on GitHub. 
-- **[Introduction to Git](../content/4_additional/git/intro)**
-Learn what Git is and how to use it for local editing and version control.
-- **[Introduction to Jupyter Notebooks](../content/4_additional/jupyter_notebooks)**
-Learn the fundamentals of Jupyter Notebooks and how to use them for interactive content.
-- **[Introduction to Google Colab](../content/4_additional/colab)**
-Discover how to integrate automatically gradable coding assignments into your course.
-- **[Resources for Your Course](../resources/info)**
-Explore resources to help create a safe, inclusive, and productive course environment. 
-- **[Course Examples](../resources/demo)**
-Check out courses already created and maintained by the DiLER project.
+2. Independent work
+    [Now it’s your turn!](assignment)
+    [Quick Setup Guide](../content/4_additional/quick_tutorial_ws)
+3. Wrap-up
+    [Wrap-up and feedback](wrap-up)
+
+You will also find an in-depth tutorial on how to create your course website, which provides more detail than the quick setup guide, along with additional resources for you to explore.
 
 You can also find the sections in the Table of Content on the left side. 
 
@@ -62,7 +52,7 @@ We will also be providing a [course template](https://github.com/diler-digitell/
 This template is supposed to be used as a starting point to generate your own course. Simply add your content or adapt the preexisting resources, adapt the structure to your liking, and upload the whole thing into an online GitHub repository, and your course website will be created automatically.
 ```
 
-## How to Reach the Content Creators
+## How to reach the content creators
 
 If you have questions about course content, feel free to [open an issue](https://github.com/luciebinder/ws-openness-2025/issues) on the GitHub repository, and I will try and get back to you as soon as possible or simply shoot me an e-mail!
 
@@ -77,3 +67,4 @@ The contact information of the instructor is as follows:
 She/Her. When contacting me, please refrain from using honoraries and formal language, "Lucie" or "you" is fine as long as the content is respectful, fair, and constructive (I aim for the same when I reply).
 However, please let me know if you have a preferred way of interacting with other folks, including how you would like to be addressed, your pronouns, and the level of formality.
 ```
+
