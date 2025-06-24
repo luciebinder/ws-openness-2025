@@ -9,33 +9,45 @@ This website will guide you through our group session. We will start with an int
 
 Simply follow the outline discussed in the [Course Overview & Procedure section](overview) to learn what this course is about and how to navigate the materials.
 
-# What is the goal of our group session?
-You will learn about the advantages of using open educational resources, as well as how to create them using [GitHub](https://github.com/), [GitHub Pages](https://pages.github.com/), and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
+# What is the structure of this group session?
+
+Our group session is structured as follows: 
+1. Group session
+    [Introduction](why_oer)
+    [Didactic aspects](didactic)
+    [Our framework](framework)
+    [Why use Jupyter Book?](why_jb)
+
+2. Independent work
+    [Now it’s your turn!](assignment)
+    [Quick Setup Guide](../content/4_additional/quick_tutorial_ws)
+3. Wrap-up
+    [Wrap-up and feedback](wrap-up)
+
+You will also find an in-depth tutorial on how to create your course website, which provides more detail than the quick setup guide, along with additional resources for you to explore.
+
+You can also find the sections in the table of content on the left side. 
+
+# What are the objectives of this group session?
+
+**In this group session, you will**
+- Recognize how openness can enhance teaching, learning, and research.
+- Think beyond what you teach — focus on how and why to support effective learning.
+- Learn how the tools [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and [GitHub Pages](https://pages.github.com/) can be combined to create accessible, interactive, and citable learning materials.
+- Take the first concrete steps toward an open, digital course offering.
 
 # Why are we using these tools?
-To make learning materials **accessible**, **reusable** and **transparent**. Furthermore, these tools enhance the possibility for **collaboration**.
+We use the open-source tools [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and [GitHub Pages](https://pages.github.com/) to make learning materials **accessible**, **reusable** and **transparent**. Furthermore, these tools enhance the possibility for **collaboration**.
 
 # Why shouldn’t we use proprietary software?
 Proprietary means have several shortcomings, such as **limited access**, **high costs**, and **lack of interoperability**.
 
-# What should have changed at the end of this course?
-You will have developed your own course concept and set up your own course by using our course template.
-
 # How did we get here?
 We believe that education should be available to as many people as possible, which is why this website is created as an open and free resource; if you’d like to create a course following our framework, please consider doing the same. Especially important should be the inclusion (and possibly adaptation) of our [diversity, equity, and inclusion statement](../resources/dei), our [open science statement](../resources/open_science), and the [Code of Conduct](../resources/CoC) to promote [FAIR](https://www.nature.com/articles/sdata201618) (Wilkinson et al., 2016) and inclusive access to education.
    
-# How do we proceed?
-- Introduction to Open Educational Resources
-- Introduction to Jupyter Book and our framework
-  - What is possible?
-  - How is the whole thing structured?
-- Create your own course concept
-- Set up your own course website with help of our template and our practical guide
-- Summary/Discussion
-
 # Where is everything?
 
-All course materials will be available on this very website. Everything will be completely open and free to use, thus constituting an open educational resource. You are free to explore, enhance, and share. Thus, this website and all materials will also remain up ideally to the end of the internet but will possibly be subject to changes and updates. If you feel the need to save this resource as it is at the moment you’re reading this, you can download the complete course from our GitHub repo [here](https://github.com/luciebinder/ws-openness-2025). The usage of this resource and the materials therein will be explained at the beginning and throughout the course.
+All materials will be available on this very website. Everything will be completely open and free to use, thus constituting an open educational resource. You are free to explore, enhance, and share. Thus, this website and all materials will also remain up ideally to the end of the internet but will possibly be subject to changes and updates. If you feel the need to save this resource as it is at the moment you’re reading this, you can download the complete course from our GitHub repo [here](https://github.com/luciebinder/ws-openness-2025). The usage of this resource and the materials therein will be explained at the beginning and throughout the course.
 
 We will also be providing a course template that will serve as a tool for our practical examples and can be downloaded [here](https://github.com/luciebinder/course-template-minimal). The template contains a folder structure, some example content files, a license, an open science statement, an equity, diversity, and inclusion statement, as well as a code of conduct for your course. This template is supposed to be used as a starting point to generate your own course. Simply add your content or adapt the preexisting resources, adapt the structure to your liking, and upload the whole thing into an online GitHub repository, and your course website will be created automatically.
 
