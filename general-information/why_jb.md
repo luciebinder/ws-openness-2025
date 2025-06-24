@@ -98,7 +98,7 @@ You can download this page by clicking on the download button on the upper right
 Here are, e.g., the [community forum](https://discourse.jupyter.org/) and a freely accessible [documentation](https://jupyterbook.org/en/stable/intro.html). 
 ```
 
-By leveraging Jupyter Books, educators can create dynamic, reusable, and interactive learning experiences that align with modern teaching and research needs.
+By leveraging Jupyter Books, educators can create dynamic, reusable, and interactive learning experiences that not only meet modern teaching and research needs but also align more effectively with the principles of open science and [FAIR](https://www.nature.com/articles/sdata201618) research than conventional approaches.
 
 ````{card} 
 **Let's take a look!**
