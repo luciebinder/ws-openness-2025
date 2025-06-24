@@ -8,19 +8,19 @@ My name is Lucie Binder, I'm a phd student at Goethe University and I'm also par
 This website will guide you through our group session. We will start with an introduction into the framework that we use to create beautiful, easy-to-deploy, and interactive content quickly. Following, we will discuss the opportunities and benefits of using this framework for open, accessible, and inclusive teaching. Then, you will have some time for yourself to create your own course concept, that you will then start to implement with help of a short and easy-to-follow tutorial. 
 
 # What is the structure of this group session?
-
 Our group session is structured as follows: 
-**1. Group session**  
-{doc}why_oer  
-    [Didactic aspects](didactic)  
-    [Our framework](framework)  
-    [Why use Jupyter Book?](why_jb)  
+**1. Group Session**  
+- {doc}`why_oer`  
+- {doc}`didactic`
+- {doc}`framework`
+- {doc}`why_jb`
 
-**2. Independent work**  
-[Now it’s your turn!](assignment)  
-    [Quick Setup Guide](../content/4_additional/quick_tutorial_ws)  
-**3. Wrap-up**. 
-[Wrap-up and feedback](wrap-up)
+**2. Independent Work**  
+- {doc}`assignment`
+- {doc}`../content/4_additional/quick_tutorial_ws`
+ 
+**3. Wrap-Up**. 
+- - {doc}`wrap-up`
 
 You will also find an in-depth tutorial on how to create your course website, which provides more detail than the quick setup guide, along with additional resources for you to explore.
 
