@@ -1,7 +1,8 @@
 # Introduction
 
-## Let’s get to know each other
-
+````{card} 
+**Let’s get to know each other**
+^^^
 Before we dive into today’s topic, let’s take a moment to introduce ourselves and learn about each other’s teaching background.
 
 1) In which field are you teaching?
@@ -9,6 +10,7 @@ Before we dive into today’s topic, let’s take a moment to introduce ourselve
 3) Which tools and platforms do you usually use for teaching?
 4) What do you hope to gain from this small group session?
 
+````
 
 ## Rethinking Educational Resources
 
