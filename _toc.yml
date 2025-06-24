@@ -17,7 +17,7 @@ parts:
   chapters:
   - file: general-information/assignment  
   - file: content/4_additional/quick_tutorial_ws
-- caption: 3. Wrap-up
+- caption: 3. Wrap-Up
   chapters:
   - file: general-information/wrap-up  
 - caption: In-depth Tutorial 
