@@ -34,7 +34,7 @@ To address these challenges, we propose the adoption of **Open Educational Resou
 
 Our approach leverages open-source tools, including [Jupyter Books](https://jupyterbook.org/en/stable/intro.html), along with [GitHub](https://github.com/) and [GitHub Pages](https://pages.github.com/), to facilitate the development and dissemination of reusable educational materials.
 
-Don't worry if you don't nok these tools yet. We will provide a structured introduction within this workshop pages. Our methodology is supported by a [pre-configured template](https://github.com/luciebinder/course-template-minimal) designed to simplify the creation of OERs. This template can be used for diverse learning materials as well as for dynamic publication and documentation (for an example, click [here](https://oreoni.github.io/)).
+Don't worry if you don't know these tools yet. We will provide a structured introduction within these workshop pages. Our framework is supported by a [pre-configured template](https://github.com/luciebinder/course-template-minimal) designed to simplify the creation of OERs. This template can be used for diverse learning materials as well as for dynamic publication and documentation (for an example, click [here](https://oreoni.github.io/)).
 
 ## What are the benefits of this approach? 
 
