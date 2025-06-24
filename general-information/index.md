@@ -12,17 +12,17 @@ Simply follow the outline discussed in the [Course Overview & Procedure section]
 # What is the structure of this group session?
 
 Our group session is structured as follows: 
-1. Group session
-    [Introduction](why_oer)
-    [Didactic aspects](didactic)
-    [Our framework](framework)
-    [Why use Jupyter Book?](why_jb)
+**1. Group session**  
+{doc}why_oer  
+    [Didactic aspects](didactic)  
+    [Our framework](framework)  
+    [Why use Jupyter Book?](why_jb)  
 
-2. Independent work
-    [Now it’s your turn!](assignment)
-    [Quick Setup Guide](../content/4_additional/quick_tutorial_ws)
-3. Wrap-up
-    [Wrap-up and feedback](wrap-up)
+**2. Independent work**  
+[Now it’s your turn!](assignment)  
+    [Quick Setup Guide](../content/4_additional/quick_tutorial_ws)  
+**3. Wrap-up**. 
+[Wrap-up and feedback](wrap-up)
 
 You will also find an in-depth tutorial on how to create your course website, which provides more detail than the quick setup guide, along with additional resources for you to explore.
 
