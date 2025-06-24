@@ -1,4 +1,4 @@
-# Didactic aspects
+# Didactic Aspects
 
 
 ````{card} 
@@ -50,4 +50,4 @@ Solution:
    - Even with limited technical experience, educators can quickly build and maintain high-quality digital courses.
 
 
-This approach also aligns more effectively with the principles of open science and [FAIR](https://www.nature.com/articles/sdata201618) research than conventional approaches.
+Now, let’s take a closer look at how our framework works.
