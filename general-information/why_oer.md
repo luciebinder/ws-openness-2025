@@ -36,16 +36,6 @@ Our approach leverages open-source tools, including [Jupyter Books](https://jupy
 
 Don't worry if you don't know these tools yet. We will provide a structured introduction within these workshop pages. Our framework is supported by a [pre-configured template](https://github.com/luciebinder/course-template-minimal) designed to simplify the creation of OERs. This template can be used for diverse learning materials as well as for dynamic publication and documentation (for an example, click [here](https://oreoni.github.io/)).
 
-## What are the benefits of this approach? 
+Before exploring the framework, let’s first consider typical didactic challenges in higher education and how our approach can offer meaningful ways to overcome them.
 
-Compared to traditional platforms, the use of this approach provides tangible advantages:
-
--    Content is **openly accessible** to anyone with an internet connection, independent of institutional affiliation.
--    **Collaboration** is greatly facilitated through GitHub’s **version control** and contribution mechanisms.
--    Educational resources become easily **citable**.
--    Materials can be **reused** and **adapted efficiently**.
--    **Version control** ensures that previous iterations remain **accessible**, enhancing **transparency**.
--    Hosting content via GitHub allows for **centralized management** and **continuous tracking of updates**.
-
-This approach aligns more effectively with the principles of open science and [FAIR](https://www.nature.com/articles/sdata201618) research than conventional approaches.
 
