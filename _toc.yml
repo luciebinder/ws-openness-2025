@@ -7,20 +7,20 @@ parts:
 - caption: 0. Preparation
   chapters:
   - file: content/account
-- caption: 1. Group session
+- caption: 1. Group Session
   chapters:
   - file: general-information/why_oer
   - file: general-information/didactic
   - file: general-information/framework
   - file: general-information/why_jb
-- caption: 2. Independent work
+- caption: 2. Independent Work
   chapters:
   - file: general-information/assignment  
   - file: content/4_additional/quick_tutorial_ws
 - caption: 3. Wrap-up
   chapters:
   - file: general-information/wrap-up  
-- caption: In-depth tutorial 
+- caption: In-depth Tutorial 
   chapters:
   - file: content/1_github/intro
     sections:
@@ -37,7 +37,7 @@ parts:
     - file: content/3_create/interactive2
     - file: content/3_create/citations
     - file: content/3_create/setup-files
-- caption: Additional resources
+- caption: Additional Resources
   chapters:
   - file: resources/info
     sections:
