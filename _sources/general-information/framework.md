@@ -38,6 +38,8 @@ Both files are stored in the `lecture` folder:
 
 ![Image of the lecture folder structure of the repository of the course template](../static/lecture-folder-structure.png)
 
+In a moment, we will take a closer look at the possibilities Jupyter Book offers.
+
 ## GitHub Pages
 GitHub Pages lets you host your website directly from your GitHub repository, making it easy to publish course content, documentation, or personal projects.
 
