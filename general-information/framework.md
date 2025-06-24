@@ -6,7 +6,7 @@
 Has anyone worked with GitHub, Markdown, or built a website before?
 ````
 
-Now that you have learned about the advantages of using Open Educational Resources and especially Jupyter Book, let’s take a look at the framework that will help make your teaching more flexible, open, and engaging. Later, you will learn step by step how to create your own course website. But first, here’s a simple overview of the main tools you will work with:
+Now that you have learned about the advantages of using Open Educational Resources for teaching, let’s take a look at the framework that will help make your teaching more flexible, open, and engaging. Later, you will learn step by step how to create your own course website. But first, here’s a simple overview of the main tools you will work with:
 
 ## The course template
 
