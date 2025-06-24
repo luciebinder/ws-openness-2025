@@ -51,3 +51,4 @@ GitHub Pages lets you host your website directly from your GitHub repository, ma
 
 In the course template, there is a special file called `book.yml` (inside the folder `.github/workflows`). This file tells GitHub how to build and update your website automatically. Later, you will only need to change a few settings in GitHub to make your site visible to others.
 
+Next, I will present to you some key reasons why we use Jupyter Book within our framework.
