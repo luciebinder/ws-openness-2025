@@ -1,24 +1,15 @@
 # Now it's your turn!
 
-You’ve just seen the framework and tools that will help you bring your course to life. But before we dive into the technical setup, it’s important to first focus on the **content** of your course.
-
-Let’s start with a short discussion:
-
-- What kind of teaching do you do?
-- What kinds of materials and tools have you used so far?
-- What challenges have you faced in creating or sharing your teaching materials?
-
 ## First task: Develop your course concept
-Take the next 50 minutes to draft your own course concept. Please consider the following questions:
+Take the next 50 minutes to sketch a first concept for your own course. Focus especially on didactic aspects — not just _what_ you want to teach, but _how_ and _why_. The following guiding questions can help:
 
-- What is the topic of my course?
-- Who is my target audience?
-- What are the learning goals?
-- What teaching materials do I already have that could be used in this course?
-- What new materials would I need?
-- How can I structure my course so that it is clear and engaging?
-- What interactive elements could make my course more interesting (e.g. quizzes, code examples, videos)?
-- What challenges or pitfalls might I encounter?
+- What should students know or be able to do at the end of my course?
+- How can I align my content and teaching methods with the skills, needs, and expectations of my target audience?
+- How can I organize my content clearly and logically (e.g. modules, chapters)?
+- Where can I include opportunities for reflection, review, or guided support?
+- Which interactive or hands-on elements (e.g., quizzes, code cells, exercises, multimedia) could actively engage learners?
+- How will I provide feedback or guide students’ learning throughout the course?
+- What potential challenges might arise (technical, motivational, cognitive), and how can I prepare for them?
 
 ```{tip}
 Keep it simple! Your first concept can be a rough draft — you can refine it later when you start building your website.
@@ -34,7 +25,7 @@ Now that you have drafted your course concept, it’s time to start building you
 In the next 50 minutes, please:
 
 - Use our (quick setup guide)[../content/4_additional/quick_tutorial_ws] to help you through the process step-by-step.
-- Start adding your first pages and structure to your site — even small steps are great progress!
-- Don’t hesitate to ask if you get stuck — I am here to help!
+- Start adding your first pages and structure to your site — even small steps count as great progress!
+- Don’t hesitate to ask if you get stuck — I am here to support you!
 
-Afterwards, we will meet again for a wrap-up and feedback round, where you can share your experience and ask final questions.
+Afterwards, we’ll come back together for a wrap-up and feedback session, where you can share your experiences and ask any final questions.
