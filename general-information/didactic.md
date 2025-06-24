@@ -53,7 +53,7 @@ Our framework addresses various didactic challenges:
    - **Interactive code cells, quizzes**, and Jupyter notebooks engage learners more actively.
    - This turns passive materials into **active, hands-on learning opportunities**.
 
-> Challenge**: Creating and improving teaching materials is often a solitary process.  
+> Challenge: Creating and improving teaching materials is often a solitary process.  
 
 → **Solution: Collaborative course development**   
    - GitHub supports **collaborative work** through issues, pull requests, and version tracking.
