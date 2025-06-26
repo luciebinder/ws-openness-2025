@@ -18,7 +18,7 @@ p + ol {
 
 
 ````{card} 
-**Didactiv challenges**
+**Didactic challenges**
 ^^^
 Let's discuss: When you reflect on your own teaching, what are didactic challenges you face?
 
