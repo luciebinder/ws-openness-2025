@@ -474,7 +474,7 @@ document.write(`
 </section>
 <section id="getting-familiar-with-the-course-template">
 <h2>3. <a class="reference internal" href="../1_github/template.html"><span class="doc std std-doc">Getting familiar with the course template</span></a><a class="headerlink" href="#getting-familiar-with-the-course-template" title="Permalink to this heading">#</a></h2>
-<p>Let’s take a look into the structure of the course template:</p>
+<p>Let’s take a look at the structure of the course template:</p>
 <p><img alt="depicting the contents of the course template repository on GitHub" src="../../_images/folder-structure_minimal-template.png" /></p>
 <p>Some files can be ignored, as they contain technical information for hosting the website. The majority of what you’ll be modifying is located in the “lecture” content folder, which looks like this:</p>
 <p><img alt="depicting the contents of the course template repository on GitHub" src="../../_images/lecture-folder-structure.png" /></p>
@@ -524,14 +524,15 @@ document.write(`
 <p>Great! Now you changed one file and GitHub Pages starts running a workflow in the background. Let’s check the worflows!</p>
 <p>8. Click on “Actions” at the top of your repository. You should see a workflow called “pages build and deployment” running (indicated by the yellow circle). Don’t worry that the first process(es) failed (indicated by the red symbol)! That’s expected, since we had to adjust the workflow settings first.</p>
 <p><img alt="Image of the workflow &quot;pages build and deployment&quot; with a green checkmark." src="../../_images/action-click.png" /></p>
-<p>Wait until the process is complete, indicated by a green checkmark:</p>
+<p>Wait until the process is complete, indicated by a green checkmark. Note: Sometimes the page needs to be refreshed.</p>
 <p><img alt="Image of the workflow &quot;pages build and deployment&quot; with a green checkmark." src="../../_images/green-checkmark.png" /></p>
 <p>9. Go back to “Settings”, and then “Pages”. Select “gh-pages” (instead of “main”) as branch.</p>
 <p><img alt="Image of the settings under Branch." src="../../_images/gh-pages.png" /></p>
-<p>10. Finally, on the top of this page, under “GitHub Pages”, you should now find a field that looks like this:</p>
+<p>10. Finally, on the top of this page, under “GitHub Pages”, you should now see a link that looks like this:</p>
 <p><img alt="Image of the final link that is presented under &quot;GitHub Pages&quot;." src="../../_images/pages_link.png" /></p>
-<p>This is the link to your newly built website! When you click the link, you might notice that there’s no table of contents yet and only the README file is displayed. Don’t worry — we just need to make one more commit!</p>
-<p>11. Push a last commit to your repository. You might want to copy your link and paste it into your <code class="docutils literal notranslate"><span class="pre">README</span></code> file.</p>
+<p>This is the link to your newly built website!</p>
+<p>When you open it, you might notice that there’s no table of contents yet and only the README file is displayed. Don’t worry, this is completely normal! GitHub Pages hasn’t generated the full HTML structure of your Jupyter Book yet. To trigger that process, we just need to make one more commit.</p>
+<p>11. Push one final commit to your repository. You might want to include your link to your website into your <code class="docutils literal notranslate"><span class="pre">README</span></code> file.</p>
 <p><img alt="Image of the README file with the link added." src="../../_images/edit-readme3.png" /></p>
 <p>As soon as you committed your changes and the workflow under “Actions” shows a green checkmark, you can refresh your website!</p>
 <p>Congratulations! You should see the welcome page to your website. Now it’s your turn to fill the pages.</p>

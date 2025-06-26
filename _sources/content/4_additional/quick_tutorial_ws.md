@@ -20,7 +20,7 @@ Let's copy our ready-to-go course template! It’s the quickest way to get start
 ![depicting position a look of the fork button on a GitHub repository](../../static/create-fork.png)
 
 ## 3. [Getting familiar with the course template](../1_github/template)
-Let's take a look into the structure of the course template:
+Let's take a look at the structure of the course template:
 
 ![depicting the contents of the course template repository on GitHub](../../static/folder-structure_minimal-template.png)
 
@@ -112,7 +112,7 @@ Great! Now you changed one file and GitHub Pages starts running a workflow in th
 
 ![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/action-click.png)
 
-Wait until the process is complete, indicated by a green checkmark:
+Wait until the process is complete, indicated by a green checkmark. Note: Sometimes the page needs to be refreshed.
 
 ![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/green-checkmark.png)
 
@@ -120,13 +120,15 @@ Wait until the process is complete, indicated by a green checkmark:
     
 ![Image of the settings under Branch.](../../static/gh-pages.png)
 
-10\. Finally, on the top of this page, under "GitHub Pages", you should now find a field that looks like this:
+10\. Finally, on the top of this page, under "GitHub Pages", you should now see a link that looks like this:
 
 ![Image of the final link that is presented under "GitHub Pages".](../../static/pages_link.png)
 
-This is the link to your newly built website! When you click the link, you might notice that there's no table of contents yet and only the README file is displayed. Don’t worry — we just need to make one more commit!
+This is the link to your newly built website! 
 
-11\. Push a last commit to your repository. You might want to copy your link and paste it into your `README` file.
+When you open it, you might notice that there's no table of contents yet and only the README file is displayed. Don’t worry, this is completely normal! GitHub Pages hasn’t generated the full HTML structure of your Jupyter Book yet. To trigger that process, we just need to make one more commit.
+
+11\. Push one final commit to your repository. You might want to include your link to your website into your `README` file.
 
 ![Image of the README file with the link added.](../../static/edit-readme3.png)
 
