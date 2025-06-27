@@ -35,14 +35,8 @@ You can find all sections in the table of content on the left side.
 - Learn how the tools [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and [GitHub Pages](https://pages.github.com/) can be combined to create accessible, interactive, and citable learning materials.
 - Take the first concrete steps toward an open, digital course website.
 
-## Why are we using these tools?
-We use the open-source tools [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and [GitHub Pages](https://pages.github.com/) to make learning materials **accessible**, **reusable** and **transparent**. Furthermore, these tools enhance the possibility for **collaboration**.
-
-## Why shouldn’t we use proprietary software?
-Proprietary means have several shortcomings, such as **limited access**, **high costs**, and **lack of interoperability**.
-
 ## How did we get here?
-We believe that education should be available to as many people as possible, which is why this website is created as an open and free resource; if you’d like to create a course following our framework, please consider doing the same. Especially important should be the inclusion (and possibly adaptation) of our [diversity, equity, and inclusion statement](../resources/dei), our [open science statement](../resources/open_science), and the [Code of Conduct](../resources/CoC) to promote [FAIR](https://www.nature.com/articles/sdata201618) (Wilkinson et al., 2016) and inclusive access to education.
+We, the DiLER team, believe that education should be available to as many people as possible, which is why this website is created as an open and free resource; if you’d like to create a course following our framework, please consider doing the same. Especially important should be the inclusion (and possibly adaptation) of our [diversity, equity, and inclusion statement](../resources/dei), our [open science statement](../resources/open_science), and the [Code of Conduct](../resources/CoC) to promote [FAIR](https://www.nature.com/articles/sdata201618) (Wilkinson et al., 2016) and inclusive access to education.
    
 ## Where is everything?
 
