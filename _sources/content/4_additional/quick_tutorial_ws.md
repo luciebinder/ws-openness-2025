@@ -185,5 +185,5 @@ In the example below, the file is added as a subsection (listed under "sections"
 
 ![Image of the edited toc file.](../../static/edit-toc.png)
 
-For a detailed explanation of how to structure your table of contents file, see: {doc}../3_create/setup-files.
+For a detailed explanation of how to structure your table of contents file, see: {doc}`../3_create/setup-files`.
 
