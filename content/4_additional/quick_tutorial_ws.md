@@ -167,13 +167,20 @@ Now you're ready to add your content and format it using Markdown! For details o
 
 ## 6. [Update Table of Contents](../3_create/setup-files)
 
+Once you've created new files, you’ll need to add them to your table of contents so they appear on your website.
 
-## 7. [Update Table of Contents](../3_create/setup-files)
+1\. Open the file `_toc.yml` and click on the edit button on the right-hand side.
 
-Once you've created files, you want them to be listed in your table of content, in order to make them visible on your website. 
+![Image of the toc file.](../../static/open-toc.png)
 
-1\. Open the file `_toc.yml`. Add your newly created files in the sequence of your choice according to our template.
+The list of file names (including their paths) in this file defines the structure and content of your website’s navigation:
 
-## 8. [Update the README file](https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#the-readme)
+![Image of the built website.](../../static/new-website.png)
 
-Open the `README.md` file and update the information on your course.
+2. Add the path to your newly created file within the structure of the table of contents.
+In the example below, the file is added as a subsection (listed under "sections") of the chapter "intro-content":
+
+![Image of the edited toc file.](../../static/edit-toc.png)
+
+For a detailed explanation of how to structure your table of contents file, see: {doc}../3_create/setup-files.
+
