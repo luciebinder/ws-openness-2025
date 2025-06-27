@@ -1,4 +1,4 @@
-# Quick Setup Guide 
+<img width="1225" alt="new_file2" src="https://github.com/user-attachments/assets/fcfd43e7-b5d5-48ed-999b-d6626060a402" /># Quick Setup Guide 
 
 Okay, now let's get started! With your own course concept in mind, you will learn now how to create and host your Jupyter Book course website. 
 
@@ -28,13 +28,85 @@ Some files can be ignored, as they contain technical information for hosting the
 
 ![depicting the contents of the course template repository on GitHub](../../static/lecture-folder-structure.png)
 
-In this folder, you can add your content by editing or adding Markdown files.
+In this folder, you can add your content by editing or creating Markdown files. But before we look at how to edit them, let’s set up your website first. By adjusting a few settings, GitHub Pages can host your website and automatically update it whenever you make changes.
 
-## 4. [Edit a file](https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#make-your-first-adjustments)
+## 4. [Host your course website](../2_host/host_website)
 
+1\. At the top of your repository, click on “Actions”. Then, click on the green button that says “I understand my workflows, go ahead and enable them” to enable workflows.
+
+![Image of the tab where the word "Action" is located as well as the green button that enables workflows in the middle of the page.](../../static/enable-workflows.png)
+
+```{note}
+**What is a workflow?**
+A workflow in GitHub is an automated process that runs a series of steps in response to specific events in your repository, like pushing a file, editing content, or publishing your site. In our case, it’s what builds your Jupyter Book ("deploy-book") and publishes it as a website using GitHub Pages ("pages build and deployment").
+```
+
+2\. Now, click on “deploy-book” on the left side. On the right side, you should see a button called "Run workflow".
+
+![Image of the tab where deploy-book is located.](../../static/deploy-book.png)
+
+3\. Click on “Run workflow” and then again on "Run workflow" (green button). 
+
+![Image of the tab run workflow buttons.](../../static/run-workflow.png)
+
+4\. Now, the workflow is running. Once the green checkmark appears, the process has completed successfully.
+
+![Image of the green checkmark.](../../static/book-deployed.png)
+
+5\. Click on "Settings" on the top of your repository.  
+
+![Image of the tab where the word "Settings" is located on the far right](../../static/settings.png)
+
+6\. On the left side, click on "Pages".
+
+![Image of the menu on the left side.](../../static/pages.png)
+  
+7\. Under Source, make sure that "Deploy from a branch" is selected.
+
+![Image of the deploy from branch setting.](../../static/deploy-from-branch.png) 
+
+8\. Under Branch: Select branch “gh-pages”. The folder “/root” is automatically selected.
+
+![Image of the settings under Branch.](../../static/gh-pages-new.png)
+
+This should look like this now. Don't forget to click on save.
+
+![Image of the settings under Branch.](../../static/save-gh-pages.png)
+
+9\. Click on "Action" and then "General" on the left side.
+
+![Image of the menu on the left side.](../../static/actions-general.png)
+
+10\. At the bottom of the page, under "Workflow permissions," select the option "Read and write permissions" and allow Github Actions to create and approve pull requests. Then, click on save.
+
+![Image of the workflow permissions.](../../static/workflow_permissions.png)
+
+11\. Click on "Actions" again at the top of your repository. You should see a workflow named “pages build and deployment” with a green checkmark. If you see a yellow circle instead, the process is still running; just wait a moment or refresh the page until the checkmark turns green.
+
+![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/pages-build.png)
+
+Once the process is finished, your new website is ready. Let’s check it out!
+
+12\. Go back to "Settings", and then "Pages". On the top of this page, you should now see a link that looks like this:
+
+![Image of the final link that is presented under "GitHub Pages".](../../static/pages_link_new.png)
+
+This is the link to your newly built website! **Congratulations**! 
+
+When you open it, you should see the welcome page to your website. On the left side, you can find the table of content. Now it's your turn to fill the pages!
+
+![Image of the built website.](../../static/new-website.png)
+
+
+## 5. [Edit and create files](https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#make-your-first-adjustments)
+
+### 5.1 Edit your first file: the config file
 Let's edit your first file, the `_config.yml` file! Here, you'll update the course title, authors' names, affiliations, and other key details to make the template your own.
 
-1\. To edit a file, click on the specific file (here: `_config.yml`). 
+1\. First, click on "Code" to get to your file structure. 
+![Image of the file structure.](../../static/code2.png)
+
+2\. To edit a file, click on the specific file (here: `_config.yml`). 
 
 ![Image of the file structure.](../../static/click_on_file.png)
 
@@ -54,98 +126,53 @@ As soon as you click on "Commit changes", your changes will be saved.
 
 **Awesome! You’ve just added your first personal touch!**
 
-The next step is to adjust a few settings so that GitHub Pages can host your website and automatically update it whenever you make changes.
 
-## 5. [Host your course website](../2_host/host_website)
+### 5.2 The README file
 
-1\. At the top of your repository, click on “Settings”.
+Now let's add some text to another important file, the `README` file, a file that entails some main information on your course. 
 
-![Image of the tab where the word "Settings" is located on the far right](../../static/settings.png)
-
-2\. On the left side, click on "Pages".
-
-![Image of the menu on the left side.](../../static/pages.png)
-  
-3\. Under Source, make sure that "Deploy from a branch" is selected.
-
-![Image of the deploy from branch setting.](../../static/deploy-from-branch.png) 
-
-4\. Under Branch: Select branch “main”. The folder “/root” is automatically selected.
-
-![Image of the settings under Branch.](../../static/branch.png)
-
-This should look like this now. Don't forget to click on save.
-
-![Image of the settings under Branch.](../../static/save-branch.png)
-
-5\. Click on "Action" and then "General" on the left side.
-
-![Image of the menu on the left side.](../../static/actions-general.png)
-
-6\. At the bottom of the page, under "Workflow permissions," select the option "Read and write permissions" and allow Github Actions to create and approve pull requests. Then, click on save.
-
-![Image of the workflow permissions.](../../static/workflow_permissions.png)
-
-7\. Now we need to push a new commit to your repo, i.e. make a change to one file in order to start the workflow process in the background.
-
-Let's do this together by adding some text to the `README` file, a file that entails some main information on your course. 
-
-Click on "Code" to get back to your file structure. Then, click on the `README` file. 
+1\. Click on "Code" to get to your file structure. Then, click on the `README` file. 
 
 ![Image of the upper options, selecting Code.](../../static/code.png)
 
-Click on the "edit" symbol: 
+2\. Click on the "edit" symbol: 
 
 ![Image of the edit button.](../../static/edit-readme.png)
 
-Enter some text and click on "commit changes" when you're done.
+3\. Enter some text and click “Commit changes” when you're done. You might want to include the link to your website to make it easily accessible.
 
 ![Image of the README file that is edited.](../../static/edit-readme2.png)
 
-Commit the changes and add some descriptions about your changes:
+4\. Commit the changes and add some descriptions about your changes:
 
 ![Image of the commit process.](../../static/commit-readme.png)
 
-Great! Now you changed one file and GitHub Pages starts running a workflow in the background. Let's check the worflows!
+```{tip}
+Remember to update your README as soon as you filled your website with content.
+```
 
-8\. Click on "Actions" at the top of your repository. You should see a workflow called "pages build and deployment" running (indicated by the yellow circle). Don't worry that the first process(es) failed (indicated by the red symbol)! That’s expected, since we had to adjust the workflow settings first.
+### [5.3 Create a new file](../3_create/intro)
+In the next section, you'll learn the basics of Markdown formatting. To get started, let’s create a new file!
 
-![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/action-click.png)
+1\. Navigate to the folder where you'd like to add the new file (here: lecture/content). Then, click on "Add file" in the upper-right corner and select "Create new file."
 
-Wait until the process is complete, indicated by a green checkmark. Note: Sometimes the page needs to be refreshed.
+![Image of the "add file" button and the "create new file" option.](../../static/new_file2.png)
 
-![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/green-checkmark.png)
+2\. Give your file a name (here: "writing") and specify the file type, such as ".md" to create a Markdown file.
 
-9\. Go back to "Settings", and then "Pages". Select "gh-pages" (instead of "main") as branch.
-    
-![Image of the settings under Branch.](../../static/gh-pages.png)
+![Image of the field where the file name is entered, with "writing.md" written in it.](../../static/include_type2.png)
 
-10\. Finally, on the top of this page, under "GitHub Pages", you should now see a link that looks like this:
-
-![Image of the final link that is presented under "GitHub Pages".](../../static/pages_link.png)
-
-This is the link to your newly built website! 
-
-When you open it, you might notice that there's no table of contents yet and only the README file is displayed. Don’t worry, this is completely normal! GitHub Pages hasn’t generated the full HTML structure of your Jupyter Book yet. To trigger that process, we just need to make one more commit.
-
-11\. Push one final commit to your repository. You might want to include your link to your website into your `README` file.
-
-![Image of the README file with the link added.](../../static/edit-readme3.png)
-
-As soon as you committed your changes and the workflow under "Actions" shows a green checkmark, you can refresh your website! 
-
-Congratulations! You should see the welcome page to your website. Now it's your turn to fill the pages.
+Now you're ready to add your content and format it using Markdown! For details on how to format content with markdown, go to {doc}`../3_create/markdown`.
 
 
-# What are the next steps?
+## 6. [Update Table of Contents](../3_create/setup-files)
 
-## 6. [Create content](../3_create/intro)
-
-Open an existing Markdown (.md) or Jupyter notebook (.ipynb) file or create a new one and copy your interactive content and code. Make sure to give each file a meaningful name and add a title to each page.
 
 ## 7. [Update Table of Contents](../3_create/setup-files)
 
-Once you've created files, open the `_toc.yml`. Add your newly created files in the sequence of your choice according to our template.
+Once you've created files, you want them to be listed in your table of content, in order to make them visible on your website. 
+
+1\. Open the file `_toc.yml`. Add your newly created files in the sequence of your choice according to our template.
 
 ## 8. [Update the README file](https://luciebinder.github.io/ws-openness-2025/content/1_github/template.html#the-readme)
 
