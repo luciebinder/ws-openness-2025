@@ -1,4 +1,4 @@
-<img width="1225" alt="new_file2" src="https://github.com/user-attachments/assets/fcfd43e7-b5d5-48ed-999b-d6626060a402" /># Quick Setup Guide 
+# Quick Setup Guide 
 
 Okay, now let's get started! With your own course concept in mind, you will learn now how to create and host your Jupyter Book course website. 
 
