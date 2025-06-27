@@ -25,7 +25,7 @@ Our group session is structured as follows:
 
 You will also find an in-depth tutorial on how to create your course website, which provides more detail than the quick setup guide, along with additional resources for you to explore.
 
-You can also find the sections in the table of content on the left side. 
+You can find all sections in the table of content on the left side. 
 
 ## What are the objectives of this group session?
 
