@@ -41,11 +41,11 @@ In this folder, you can add your content by editing or creating Markdown files. 
 A workflow in GitHub is an automated process that runs a series of steps in response to specific events in your repository, like pushing a file, editing content, or publishing your site. In our case, it’s what builds your Jupyter Book ("deploy-book") and publishes it as a website using GitHub Pages ("pages build and deployment").
 ```
 
-2\. Now, click on “deploy-book” on the left side. On the right side, you should see a button called "Run workflow".
+2\. Now, click on “deploy-book” on the left side. 
 
 ![Image of the tab where deploy-book is located.](../../static/deploy-book.png)
 
-3\. Click on “Run workflow” and then again on "Run workflow" (green button). 
+3\. Click on the button “Run workflow” located on the right-hand side and then again on "Run workflow" (green button). 
 
 ![Image of the tab run workflow buttons.](../../static/run-workflow.png)
 
@@ -85,7 +85,7 @@ This should look like this now. Don't forget to click on save.
 
 ![Image of the workflow "pages build and deployment" with a green checkmark.](../../static/pages-build.png)
 
-Once the process is finished, your new website is ready. Let’s check it out!
+Once the process is finished, GitHub has successfully built your website. Let’s check it out!
 
 12\. Go back to "Settings", and then "Pages". On the top of this page, you should now see a link that looks like this:
 
@@ -139,11 +139,15 @@ Now let's add some text to another important file, the `README` file, a file tha
 
 ![Image of the edit button.](../../static/edit-readme.png)
 
-3\. Enter some text and click “Commit changes” when you're done. You might want to include the link to your website to make it easily accessible.
+3\. Enter some text and click “Commit changes” when you're done. 
+
+```{tip}
+You might want to include the link to your website to your `README` file to make it easily accessible.
+```
 
 ![Image of the README file that is edited.](../../static/edit-readme2.png)
 
-4\. Commit the changes and add some descriptions about your changes:
+4\. Add some descriptions about your changes and comiit the changes:
 
 ![Image of the commit process.](../../static/commit-readme.png)
 
@@ -152,9 +156,8 @@ Remember to update your README as soon as you filled your website with content.
 ```
 
 ### [5.3 Create a new file](../3_create/intro)
-In the next section, you'll learn the basics of Markdown formatting. To get started, let’s create a new file!
 
-1\. Navigate to the folder where you'd like to add the new file (here: lecture/content). Then, click on "Add file" in the upper-right corner and select "Create new file."
+1\. Navigate to the folder where you'd like to add the new file (here: `lecture/content`). Then, click on "Add file" in the upper-right corner and select "Create new file."
 
 ![Image of the "add file" button and the "create new file" option.](../../static/new_file2.png)
 
