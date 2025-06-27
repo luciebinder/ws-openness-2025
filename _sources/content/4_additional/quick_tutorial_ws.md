@@ -187,3 +187,8 @@ In the example below, the file is added as a subsection (listed under "sections"
 
 For a detailed explanation of how to structure your table of contents file, see: {doc}`../3_create/setup-files`.
 
+**Congratulations**!
+
+You've created your first course website and added a new file to your table of contents! Now, you can focus on designing a beautiful and engaging site to enrich your teaching and your students' learning experience.
+
+To explore what’s possible and learn how to further enhance your content, for example, through formatting or by including multimedia, check out the detailed guide here: {doc}`../3_create/markdown`
