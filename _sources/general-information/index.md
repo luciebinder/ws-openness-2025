@@ -33,7 +33,7 @@ You can find all sections in the table of content on the left side.
 - Recognize how openness can enhance teaching, learning, and research.
 - Think beyond what you teach — focus on how and why to support effective learning.
 - Learn how the tools [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and [GitHub Pages](https://pages.github.com/) can be combined to create accessible, interactive, and citable learning materials.
-- Take the first concrete steps toward an open, digital course offering.
+- Take the first concrete steps toward an open, digital course website.
 
 ## Why are we using these tools?
 We use the open-source tools [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and [GitHub Pages](https://pages.github.com/) to make learning materials **accessible**, **reusable** and **transparent**. Furthermore, these tools enhance the possibility for **collaboration**.
