@@ -106,7 +106,7 @@ Let's edit your first file, the `_config.yml` file! Here, you'll update the cour
 1\. First, click on "Code" to get to your file structure. 
 ![Image of the file structure.](../../static/code2.png)
 
-2\. To edit a file, click on the specific file (here: `_config.yml`). 
+2\. To edit a file, click on the specific file (here: `_config.yml`, which is located in the lecture folder). 
 
 ![Image of the file structure.](../../static/click_on_file.png)
 
@@ -157,7 +157,7 @@ Remember to update your README as soon as you filled your website with content.
 
 ### [5.3 Create a new file](../3_create/intro)
 
-1\. Navigate to the folder where you'd like to add the new file (here: `lecture/content`). Then, click on "Add file" in the upper-right corner and select "Create new file."
+1\. Again, click on "Code" and navigate to the folder where you'd like to add the new file (here: `lecture/content`). Then, click on "Add file" in the upper-right corner and select "Create new file."
 
 ![Image of the "add file" button and the "create new file" option.](../../static/new_file2.png)
 
@@ -166,7 +166,6 @@ Remember to update your README as soon as you filled your website with content.
 ![Image of the field where the file name is entered, with "writing.md" written in it.](../../static/include_type2.png)
 
 Now you're ready to add your content and format it using Markdown! For details on how to format content with markdown, go to {doc}`../3_create/markdown`.
-
 
 ## 6. [Update Table of Contents](../3_create/setup-files)
 
@@ -180,7 +179,8 @@ The list of file names (including their paths) in this file defines the structur
 
 ![Image of the built website.](../../static/new-website.png)
 
-2. Add the path to your newly created file within the structure of the table of contents.
+2\. Add the path to your newly created file within the structure of the table of contents. All paths must be specified relative to the _toc.yml file, which is located in the lecture folder.
+
 In the example below, the file is added as a subsection (listed under "sections") of the chapter "intro-content":
 
 ![Image of the edited toc file.](../../static/edit-toc.png)
