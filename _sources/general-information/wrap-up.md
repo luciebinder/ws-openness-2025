@@ -29,7 +29,7 @@ Take the first concrete steps toward an open, digital course offering.
 
 To support you in this process, feel free to use the in-depth tutorial linked in the sidebar.
 
-As this workshop website will not be updated, we also recommend our online course on [Creating Interactive Content with Jupyter Books](https://diler-digitell.github.io/tutorial_jupyter_books/general-information/index.html) for up-to-date guidance and additional resources.
+Check out our online course on [Creating Interactive Content with Jupyter Books](https://diler-digitell.github.io/tutorial_jupyter_books/general-information/index.html) for up-to-date guidance and additional resources.
 
 If you ever need advice or consultation, please don’t hesitate to reach out. My contact information can be found here: {doc}`index`.
 
