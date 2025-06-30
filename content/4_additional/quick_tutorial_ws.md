@@ -198,6 +198,6 @@ To explore what’s possible and learn how to further enhance your content, for 
 For those of you interested in integrating live R code, check out the following resources:
 
 - Our tutorial on how to integrate MyBinder: {doc}`../3_create/interactive2`
-- Integrating the RStudie user interface via MyBinder: https://mybinder.readthedocs.io/en/latest/howto/user_interface.html#rstudio
-- Choose R as the default language in MyBinder: https://mybinder.readthedocs.io/en/latest/howto/languages.html#the-r-language
+- Integrating the RStudie user interface via MyBinder: [https://mybinder.readthedocs.io/en/latest/howto/user_interface.html#rstudio](https://mybinder.readthedocs.io/en/latest/howto/user_interface.html#rstudio)
+- Choose R as the default language in MyBinder: [https://mybinder.readthedocs.io/en/latest/howto/languages.html#the-r-language](https://mybinder.readthedocs.io/en/latest/howto/languages.html#the-r-language)
 
