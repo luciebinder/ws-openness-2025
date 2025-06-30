@@ -5,7 +5,7 @@ Hello and welcome everyone to the introduction page of our group session on "**W
 
 My name is Lucie Binder, I'm a phd student at Goethe University and I'm also part of the [DiLER](https://diler-digitell.github.io/intro.html) project that aims to provide open and free educational resources to promote key digital skills for working in empirical sciences. At the same time, we empower course instructors to take advantage of interactive, flexible, and open-source tools to enhance their teachings. DiLER is a partnership of [DigiTeLL](https://www.uni-frankfurt.de/106198465/Digital_Teaching_and_Learning_Lab___DigiTeLL) at Goethe University Frankfurt.
 
-This website will guide you through our group session. We will start with an introduction into the framework that we use to create beautiful, easy-to-deploy, and interactive content quickly. Following, we will discuss the opportunities and benefits of using this framework for open, accessible, and inclusive teaching. Then, you will have some time for yourself to create your own course concept, that you will then start to implement with help of a short and easy-to-follow tutorial. 
+This website will guide you through our group session. We will start with discussing the didactic opportunities and benefits of using open and accessible teaching materials. After that, we will talk about the framework that we use to create beautiful, easy-to-deploy, and interactive content quickly. In the individual work session, you will have some time for yourself to create your own course concept, that you will then start to implement with help of a short and easy-to-follow tutorial. 
 
 ## What is the structure of this group session?
 Our group session is structured as follows: 
