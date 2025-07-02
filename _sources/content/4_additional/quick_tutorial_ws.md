@@ -73,7 +73,7 @@ This should look like this now. Don't forget to click on save.
 
 ![Image of the settings under Branch.](../../static/save-gh-pages.png)
 
-9\. Click on "Action" and then "General" on the left side.
+9\. On the left side, click on "Action" and then "General".
 
 ![Image of the menu on the left side.](../../static/actions-general.png)
 
