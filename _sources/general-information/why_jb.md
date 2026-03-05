@@ -101,12 +101,9 @@ Here are, e.g., the [community forum](https://discourse.jupyter.org/) and a free
 By leveraging Jupyter Books, educators can create dynamic, reusable, and interactive learning experiences that not only meet modern teaching and research needs but also align more effectively with the principles of open science and [FAIR](https://www.nature.com/articles/sdata201618) research than conventional approaches.
 
 ````{card} 
-**Let's take a look!**
+**Looking for inspiration?**
 ^^^
-Please browse the [gallery of Jupyter Books created by the community](https://executablebooks.org/en/latest/gallery/) and choose one example to explore:
-- What didactic challenges does it address?
-- What elements have been integrated?
-- Which features might be useful or inspiring for your own teaching?
+Explore the [gallery of Jupyter Books created by the community](https://executablebooks.org/en/latest/gallery/) and see what others have created. 
 
-Take about 10 minutes for this activity. We will then discuss your impressions together. 
+What ideas could you adopt for your own course?
 ````
