@@ -110,7 +110,3 @@ Please browse the [gallery of Jupyter Books created by the community](https://ex
 
 Take about 10 minutes for this activity. We will then discuss your impressions together. 
 ````
-
-```{note}
-I know, some of these examples look really polished and complex! But don’t worry. On the next page, you’ll find information about our framework and the easy-to-adapt template that will make creating your own course website really simple.
-```
