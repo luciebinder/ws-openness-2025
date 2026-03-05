@@ -1,9 +1,9 @@
 ![Logo of the DiLER project](../static/logo.png)
 # **Welcome!**
 
-Hello and welcome everyone to the introduction page of our group session on "**Working collaborative with Jupyter Book: An open-source tool to create open and flexible teaching/learning materials**", at the "Openness in the Higher Education Classroom" Workshop on June 30th, 2025.  
+Hello and welcome everyone to the introduction page of our group session on "**Working collaborative with Jupyter Book: An open-source tool to create open and flexible teaching/learning materials**", at the "Openness in the Higher Education Classroom" Workshop on June 30th, 2025, and March 9th, 2026.  
 
-My name is Lucie Binder, I'm a phd student at Goethe University and I'm also part of the [DiLER](https://diler-digitell.github.io/intro.html) project that aims to provide open and free educational resources to promote key digital skills for working in empirical sciences. At the same time, we empower course instructors to take advantage of interactive, flexible, and open-source tools to enhance their teachings. DiLER is a partnership of [DigiTeLL](https://www.uni-frankfurt.de/106198465/Digital_Teaching_and_Learning_Lab___DigiTeLL) at Goethe University Frankfurt.
+My name is Lucie Binder, I'm a phd student at Goethe University and I'm also part of the [DiLER](https://diler-digitell.github.io/intro.html) project that aims to provide open and free educational resources to promote key digital skills for working in empirical sciences. At the same time, we empower course instructors to take advantage of interactive, flexible, and open-source tools to enhance their teachings. DiLER was a partnership of [DigiTeLL](https://www.uni-frankfurt.de/106198465/Digital_Teaching_and_Learning_Lab___DigiTeLL) at Goethe University Frankfurt.
 
 This website will guide you through our group session. We will start with discussing the didactic opportunities and benefits of using open and accessible teaching materials. After that, we will talk about the framework that we use to create beautiful, easy-to-deploy, and interactive content quickly. In the individual work session, you will have some time for yourself to create your own course concept, that you will then start to implement with help of a short and easy-to-follow tutorial. 
 
@@ -32,7 +32,7 @@ You can find all sections in the table of content on the left side.
 **In this group session, you will**
 - Recognize how openness can enhance teaching, learning, and research.
 - Think beyond what you teach — focus on how and why to support effective learning.
-- Learn how the tools [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and [GitHub Pages](https://pages.github.com/) can be combined to create accessible, interactive, and citable learning materials.
+- Learn how the tools [Jupyter Book](https://jupyter-book.readthedocs.io/v1/intro.html) and [GitHub Pages](https://pages.github.com/) can be combined to create accessible, interactive, and citable learning materials.
 - Take the first concrete steps toward an open, digital course website.
 
 ## How did we get here?
