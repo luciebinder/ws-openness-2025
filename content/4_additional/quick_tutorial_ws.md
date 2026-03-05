@@ -3,7 +3,7 @@
 Okay, now let's get started! With your own course concept in mind, you will learn now how to create and host your Jupyter Book course website. 
 
 
-If you have any questions, feel free to click on the section titels to dive into the detailed tutorials or get in touch with me! 
+If you have any questions, feel free to click on the section titles to dive into the detailed tutorials or get in touch with me! 
 
 ## 1. [Set up your GitHub account](../1_github/account)
 If you haven't already set up your GitHub account, please go to the [respective section](../1_github/account).  
