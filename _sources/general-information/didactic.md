@@ -28,6 +28,14 @@ Let's discuss: When you reflect on your own teaching, what are didactic challeng
 
 Our framework addresses various didactic challenges:
 
+```{dropdown} Challenge: Teaching materials are often stored locally, not version-controlled, and difficult to share or reuse.
+→ **Solution: Sustainable and reusable teaching materials**  
+   - GitHub enables **version control**, **collaborative editing**, and **tracking changes** over time.
+   - Jupyter Book allows you to publish your materials as **open, citable websites**.
+   - Materials become **reusable**, **adaptable**, and **long-lasting**.
+```
+
+
 > Challenge: Teaching materials are often stored locally, not version-controlled, and difficult to share or reuse.
 
 → **Solution: Sustainable and reusable teaching materials**  
